@@ -29,7 +29,7 @@ def handler(event, context):
     empty_entry = build_empty_entry(global_headers)
     data = map(lambda x: OrderedDict(empty_entry, **x), data)  # Expand entries to include all headers
     csv_string = build_csv_string(data)
-  
+    
     upload_csv_file(csv_string)
 
 def upload_csv_file(csv_string):
@@ -48,7 +48,10 @@ def get_header(cell):
   return str(cell.value).lower()
 
 def get_value(cell):
-  return str(cell.value)
+  value = str(cell.value)
+  if "," in value:
+    value = '"' + value + '"'
+  return value
 
 def build_empty_entry(global_headers):
   global_headers.sort()
