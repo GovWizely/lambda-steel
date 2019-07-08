@@ -15,8 +15,8 @@
           "size": 1024
         },
         "bucket": {
-          "arn": "arn:aws:s3:::steel-data-xls",
-          "name": "steel-data-xls",
+          "arn": "arn:aws:s3:::steel-data-raw",
+          "name": "steel-data-raw",
           "ownerIdentity": {
             "principalId": "EXAMPLE"
           }
