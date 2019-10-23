@@ -15,9 +15,9 @@ including:
 
 ## Getting Started
 
-  git clone git@github.com:GovWizely/lambda-steel.git
-  cd lambda-steel
-  mkvirtualenv -r requirements.txt lambda-steel
+* git clone git@github.com:GovWizely/lambda-steel.git
+* cd lambda-steel
+* mkvirtualenv -r requirements.txt lambda-steel
 
 ## Configuration
 
