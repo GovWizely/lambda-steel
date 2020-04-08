@@ -1,0 +1,575 @@
+flow_type,partner,product,reporter,Trade,Y_2013_IHS,Y_2014_IHS,Y_2015_IHS,Y_2016_IHS,Y_2017_IHS,Y_2018_IHS,Y_2019_IHS,YTD,YTD_2019,YTD_2020,updated_date
+QTY,United Arab Emirates,All Steel Mill Products,United States (For Domestic Consumption),IMP,59270.599,98303.332,155944.686,158645.513,273558.716,221461.011,222908.335,Feb,43484.256,36901.616,06APR2020
+QTY,United Arab Emirates,Flat Products,United States (For Domestic Consumption),IMP,0,5728.563,2817.207,63315.961,146496.54,114727.127,91590.568,Feb,23669.959,12809.789,06APR2020
+QTY,United Arab Emirates,Long Products,United States (For Domestic Consumption),IMP,12928.299,18113.326,47296.978,43314.424,25489.17,19875.407,36814.757,Feb,3385.679,3983.89,06APR2020
+QTY,United Arab Emirates,Pipe and Tube Products,United States (For Domestic Consumption),IMP,44220.615,71647.674,102568.762,50179.342,98413.249,83681.512,91466.325,Feb,15824.078,19776.672,06APR2020
+QTY,United Arab Emirates,Stainless Products,United States (For Domestic Consumption),IMP,2121.685,2813.769,3261.739,1835.786,3159.757,3176.965,3036.685,Feb,604.54,331.265,06APR2020
+QTY,Argentina,All Steel Mill Products,United States (For Domestic Consumption),IMP,217049.058,197984.851,107821.042,80909.019,213491.865,166197.721,177784.142,Feb,20998.935,15970.027,06APR2020
+QTY,Argentina,Flat Products,United States (For Domestic Consumption),IMP,0,0,6968.252,25239.702,387.38,3567.125,14604.645,Feb,2785.279,3778.36,06APR2020
+QTY,Argentina,Long Products,United States (For Domestic Consumption),IMP,0,0,0.979,2008.185,394.249,1939.391,329.942,Feb,182.554,54.766,06APR2020
+QTY,Argentina,Pipe and Tube Products,United States (For Domestic Consumption),IMP,217000.156,197969.895,100849.598,53586.626,212710.236,160688.538,162849.555,Feb,18031.102,12136.901,06APR2020
+QTY,Argentina,Stainless Products,United States (For Domestic Consumption),IMP,48.902,14.956,2.213,74.506,0,2.667,0,Feb,0,0,06APR2020
+QTY,Austria,All Steel Mill Products,United States (For Domestic Consumption),IMP,248744.018,284452.344,185450.755,168811.218,268287.251,327368.432,253154.847,Feb,49720.53,44002.059,06APR2020
+QTY,Austria,Flat Products,United States (For Domestic Consumption),IMP,60748.696,73308.427,49341.417,66164.231,88488.812,114166.406,105693.274,Feb,18477.847,27323.907,06APR2020
+QTY,Austria,Long Products,United States (For Domestic Consumption),IMP,11828.131,14258.645,13380.513,11750.764,8583.69,11048.349,11319.377,Feb,1788.069,1752.399,06APR2020
+QTY,Austria,Pipe and Tube Products,United States (For Domestic Consumption),IMP,171696.257,190456.814,114130.401,86313.071,157537.904,193011.297,131936.593,Feb,28878.605,14512.89,06APR2020
+QTY,Austria,Semi-Finished Products,United States (For Domestic Consumption),IMP,33.552,43.458,29.476,64.942,42.495,145.884,8.422,Feb,0.71,0.674,06APR2020
+QTY,Austria,Stainless Products,United States (For Domestic Consumption),IMP,4437.382,6385,8568.948,4518.21,13634.35,8996.496,4197.181,Feb,575.299,412.189,06APR2020
+QTY,Australia,All Steel Mill Products,United States (For Domestic Consumption),IMP,139649.839,259444.279,336911.407,269304.446,281879.46,265498.664,283747.757,Feb,41405.95,33339.699,06APR2020
+QTY,Australia,Flat Products,United States (For Domestic Consumption),IMP,133540.225,250766.782,329879.873,263359.858,275484.962,234288.604,261402.679,Feb,40329.088,32268.767,06APR2020
+QTY,Australia,Long Products,United States (For Domestic Consumption),IMP,5921.169,7855.024,6374.888,5596.429,6160.706,30864.599,20465.743,Feb,1034.546,943.729,06APR2020
+QTY,Australia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,45.343,204.16,9.67,2.476,40.611,4.479,8.753,Feb,8.331,1.889,06APR2020
+QTY,Australia,Semi-Finished Products,United States (For Domestic Consumption),IMP,44.218,34.822,33.915,29.749,0,7,1313.646,Feb,0,0,06APR2020
+QTY,Australia,Stainless Products,United States (For Domestic Consumption),IMP,98.884,583.491,613.061,315.934,193.181,333.982,556.936,Feb,33.985,125.314,06APR2020
+QTY,Belgium,All Steel Mill Products,United States (For Domestic Consumption),IMP,123504.697,176291.181,120781.425,193296.18,130464.68,163222.423,114342.868,Feb,17937.924,12795.618,06APR2020
+QTY,Belgium,Flat Products,United States (For Domestic Consumption),IMP,90068.081,137940.467,93632.744,157030.604,102857.438,125627.949,90463.498,Feb,13667.711,8589.534,06APR2020
+QTY,Belgium,Long Products,United States (For Domestic Consumption),IMP,4848.251,3289.032,2506.142,10386.558,3128.968,2599.826,692.264,Feb,155.629,184.046,06APR2020
+QTY,Belgium,Pipe and Tube Products,United States (For Domestic Consumption),IMP,122.181,185.317,187.275,58.906,39.411,224.799,73.312,Feb,12.988,3.965,06APR2020
+QTY,Belgium,Semi-Finished Products,United States (For Domestic Consumption),IMP,618.032,232.516,0,0,0,2.374,192.24,Feb,72,54.358,06APR2020
+QTY,Belgium,Stainless Products,United States (For Domestic Consumption),IMP,27848.152,34643.849,24455.264,25820.112,24438.863,34767.475,22921.554,Feb,4029.596,3963.715,06APR2020
+QTY,Bulgaria,All Steel Mill Products,United States (For Domestic Consumption),IMP,1.085,25967.955,4217.763,2604.313,120.514,40073.062,73988.122,Feb,47832.086,39.916,06APR2020
+QTY,Bulgaria,Flat Products,United States (For Domestic Consumption),IMP,0,25967.955,4214.59,2600.363,0,0,5100.638,Feb,5100.638,0,06APR2020
+QTY,Bulgaria,Long Products,United States (For Domestic Consumption),IMP,0,0,0,0,119.748,40073.062,68887.484,Feb,42731.448,39.916,06APR2020
+QTY,Bulgaria,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,0,3.95,0.08,0,0,Feb,0,0,06APR2020
+QTY,Bulgaria,Stainless Products,United States (For Domestic Consumption),IMP,1.085,0,3.173,0,0.686,0,0,Feb,0,0,06APR2020
+QTY,Brazil,All Steel Mill Products,United States (For Domestic Consumption),IMP,3777713.627,4565201.045,4879415.734,3908927.585,4676844.218,3987544.944,3830071.787,Feb,1241504.425,1170956.68,06APR2020
+QTY,Brazil,Flat Products,United States (For Domestic Consumption),IMP,101765.975,489216.266,1071707.873,448290.038,364921.294,136432.2,237688.363,Feb,72324.698,55392.281,06APR2020
+QTY,Brazil,Long Products,United States (For Domestic Consumption),IMP,104449.531,126391.284,155393.062,189476.719,300485.604,160713.963,143208.456,Feb,35857.187,27419.884,06APR2020
+QTY,Brazil,Pipe and Tube Products,United States (For Domestic Consumption),IMP,61604.205,107860.518,110103.527,34843.457,214092.886,125182.661,90934.062,Feb,25285.25,28806.833,06APR2020
+QTY,Brazil,Semi-Finished Products,United States (For Domestic Consumption),IMP,3498756.337,3829314.959,3525829.096,3212970.418,3778728.17,3552474.584,3345099.26,Feb,1104359.035,1056257.434,06APR2020
+QTY,Brazil,Stainless Products,United States (For Domestic Consumption),IMP,11137.579,12418.018,16382.176,23346.953,18616.264,12741.536,13141.646,Feb,3678.255,3080.248,06APR2020
+QTY,Belarus,All Steel Mill Products,United States (For Domestic Consumption),IMP,49457.741,74024.802,43205.606,40721.785,51152.366,46349.55,15507.202,Feb,2472.737,2629.672,06APR2020
+QTY,Belarus,Long Products,United States (For Domestic Consumption),IMP,5051.142,8651.976,14372.739,37147.286,30683.354,6565.895,2645.375,Feb,398.942,315.402,06APR2020
+QTY,Belarus,Pipe and Tube Products,United States (For Domestic Consumption),IMP,44406.599,65372.826,28832.867,3574.499,19035.181,39783.655,12861.827,Feb,2073.795,2314.27,06APR2020
+QTY,Belarus,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,0,1433.831,0,0,Feb,0,0,06APR2020
+QTY,Canada,All Steel Mill Products,United States (For Domestic Consumption),IMP,5060058.285,5563121.503,5347075.059,5214903.724,5792813.889,5658483.089,5057063.455,Feb,805695.116,970894.643,06APR2020
+QTY,Canada,Flat Products,United States (For Domestic Consumption),IMP,2622821.975,2911006.648,2836703.741,3106736.323,3317011.092,3557115.196,3197523.631,Feb,481077.23,681369.104,06APR2020
+QTY,Canada,Long Products,United States (For Domestic Consumption),IMP,1196536.066,1327261.964,1349030.473,1283835.946,1319246.945,1067126.074,824828.531,Feb,124086.118,163323.605,06APR2020
+QTY,Canada,Pipe and Tube Products,United States (For Domestic Consumption),IMP,1024331.494,992723.906,941389.501,650329.618,926327.652,916128.658,756984.162,Feb,193888.201,106465.191,06APR2020
+QTY,Canada,Semi-Finished Products,United States (For Domestic Consumption),IMP,189112.901,296223.875,186417.159,143440.994,186948.114,89040.43,260548.575,Feb,3881.037,15916.002,06APR2020
+QTY,Canada,Stainless Products,United States (For Domestic Consumption),IMP,27255.849,35905.11,33534.185,30560.843,43280.086,29072.731,17178.556,Feb,2762.53,3820.741,06APR2020
+QTY,China,All Steel Mill Products,United States (For Domestic Consumption),IMP,1745230.62,2919170.236,2181745.229,802023.865,758396.349,649883.841,508526.22,Feb,109603.27,47733.139,06APR2020
+QTY,China,Flat Products,United States (For Domestic Consumption),IMP,695084.716,1815856.134,1351497.875,175354.651,166587.982,127426.67,121019.842,Feb,20558.186,10692.28,06APR2020
+QTY,China,Long Products,United States (For Domestic Consumption),IMP,800980.677,731601.626,451025.981,356585.222,322450.672,347052.399,268062.536,Feb,63807.327,23558.269,06APR2020
+QTY,China,Pipe and Tube Products,United States (For Domestic Consumption),IMP,136506.409,189630.954,187388.459,190858.538,206696.452,123383.896,74691.687,Feb,15978.36,9152.909,06APR2020
+QTY,China,Semi-Finished Products,United States (For Domestic Consumption),IMP,7217.563,7125.19,7325.057,6964.653,8256.64,6962.212,3920.378,Feb,524.765,91.721,06APR2020
+QTY,China,Stainless Products,United States (For Domestic Consumption),IMP,105441.255,174956.332,184507.857,72260.801,54404.603,45058.664,40831.777,Feb,8734.632,4237.96,06APR2020
+QTY,Colombia,All Steel Mill Products,United States (For Domestic Consumption),IMP,15297.186,20173.718,14982.377,17358.388,43437.914,25935.037,11994.446,Feb,2155.854,39.742,06APR2020
+QTY,Colombia,Flat Products,United States (For Domestic Consumption),IMP,1825.807,2908.577,2083.281,12896.327,29089.24,17277.308,7299.261,Feb,851.671,20.79,06APR2020
+QTY,Colombia,Long Products,United States (For Domestic Consumption),IMP,1860.036,1970.88,2208.13,1861.744,9203.419,822.871,111.045,Feb,20.073,0,06APR2020
+QTY,Colombia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,11598.448,15274.911,10672.651,2600.252,5139.41,7755.948,4584.14,Feb,1284.11,18.952,06APR2020
+QTY,Colombia,Stainless Products,United States (For Domestic Consumption),IMP,12.895,19.35,18.315,0.065,5.845,78.91,0,Feb,0,0,06APR2020
+QTY,Czech Republic,All Steel Mill Products,United States (For Domestic Consumption),IMP,155049.397,194681.697,112222.885,86815.395,125054.768,111760.935,98391.14,Feb,19095.529,15124.241,06APR2020
+QTY,Czech Republic,Flat Products,United States (For Domestic Consumption),IMP,4332.377,1667.603,2778.11,3745.287,4435.91,1002.842,577.827,Feb,55.795,0,06APR2020
+QTY,Czech Republic,Long Products,United States (For Domestic Consumption),IMP,74940.426,108871,70696.75,55629.735,63370.752,62493.456,42020.719,Feb,4402.698,8642.997,06APR2020
+QTY,Czech Republic,Pipe and Tube Products,United States (For Domestic Consumption),IMP,74031.29,80981.226,35817.678,23826.374,54768.208,46927.17,54420.765,Feb,14335.057,5670.814,06APR2020
+QTY,Czech Republic,Semi-Finished Products,United States (For Domestic Consumption),IMP,6.118,1.371,0,18.576,0,0,0,Feb,0,0,06APR2020
+QTY,Czech Republic,Stainless Products,United States (For Domestic Consumption),IMP,1739.186,3160.497,2930.347,3595.423,2479.898,1337.467,1371.829,Feb,301.979,810.43,06APR2020
+QTY,Germany,All Steel Mill Products,United States (For Domestic Consumption),IMP,1019716.249,1192873.215,1411459.6,1111500.805,1382547.763,1252979.71,966473.266,Feb,195896.717,99789.626,06APR2020
+QTY,Germany,Flat Products,United States (For Domestic Consumption),IMP,472774.499,431413.194,630399.249,657186.465,648811.293,600437.349,475785.99,Feb,86684.861,46399.804,06APR2020
+QTY,Germany,Long Products,United States (For Domestic Consumption),IMP,209316.146,273839.624,313989.999,236916.271,311070.749,299050.933,195274.659,Feb,47248.847,17891.123,06APR2020
+QTY,Germany,Pipe and Tube Products,United States (For Domestic Consumption),IMP,296420.259,413668.65,383582.354,163232.919,280354.781,278181.457,245009.172,Feb,57244.568,23246.53,06APR2020
+QTY,Germany,Semi-Finished Products,United States (For Domestic Consumption),IMP,6617.404,29517.139,30717.749,5304.78,23934.842,10381.062,10121.135,Feb,130.845,2173.962,06APR2020
+QTY,Germany,Stainless Products,United States (For Domestic Consumption),IMP,34587.941,44434.608,52770.249,48860.37,118376.098,64928.909,40282.31,Feb,4587.596,10078.207,06APR2020
+QTY,Dominican Republic,All Steel Mill Products,United States (For Domestic Consumption),IMP,34004.988,19885.149,14157.448,27158.885,38087.754,56142.725,65988.996,Feb,6549.47,10445.139,06APR2020
+QTY,Dominican Republic,Flat Products,United States (For Domestic Consumption),IMP,0,41.474,50.632,224.265,1261.304,1951.828,274.256,Feb,93.483,21.751,06APR2020
+QTY,Dominican Republic,Long Products,United States (For Domestic Consumption),IMP,28931.503,16377.887,10266.541,20393.122,26224.521,44465.631,58582.983,Feb,5248.278,9188.898,06APR2020
+QTY,Dominican Republic,Pipe and Tube Products,United States (For Domestic Consumption),IMP,5073.485,3465.788,3840.275,6541.11,10601.929,9725.266,7106.372,Feb,1207.709,1234.49,06APR2020
+QTY,Dominican Republic,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,0,25.385,Feb,0,0,06APR2020
+QTY,Dominican Republic,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,0.388,0,0,0,Feb,0,0,06APR2020
+QTY,Egypt,All Steel Mill Products,United States (For Domestic Consumption),IMP,0,25901.74,19.06,10014.259,173660.69,145664.752,94673.655,Feb,38720.755,1627.05,06APR2020
+QTY,Egypt,Flat Products,United States (For Domestic Consumption),IMP,0,0,19.06,9834.033,129275.077,95369.337,52840.695,Feb,15331.095,1627.05,06APR2020
+QTY,Egypt,Long Products,United States (For Domestic Consumption),IMP,0,25901.74,0,179.91,44385.613,50295.415,41832.96,Feb,23389.66,0,06APR2020
+QTY,Egypt,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,0.316,0,0,0,Feb,0,0,06APR2020
+QTY,Spain,All Steel Mill Products,United States (For Domestic Consumption),IMP,208951.4,370227.633,282572.498,287187.243,405665.725,293592.869,403892.354,Feb,61852.432,55677.674,06APR2020
+QTY,Spain,Flat Products,United States (For Domestic Consumption),IMP,2037.871,17133.425,7712.188,14378.845,3034.087,4330.417,7699.372,Feb,620.115,1149.81,06APR2020
+QTY,Spain,Long Products,United States (For Domestic Consumption),IMP,137410.203,248364.515,191370.853,228191.391,285175.662,166975.756,299789.552,Feb,26286.626,40550.956,06APR2020
+QTY,Spain,Pipe and Tube Products,United States (For Domestic Consumption),IMP,53917.966,82038.142,64483.282,27474.425,97978.19,108199.741,85684.441,Feb,33227.778,11583.163,06APR2020
+QTY,Spain,Semi-Finished Products,United States (For Domestic Consumption),IMP,15.565,24.833,400.283,515.228,118.968,294.928,1.566,Feb,0,0,06APR2020
+QTY,Spain,Stainless Products,United States (For Domestic Consumption),IMP,15569.795,22666.718,18605.892,16627.354,19358.818,13792.027,10717.423,Feb,1717.913,2393.745,06APR2020
+QTY,Finland,All Steel Mill Products,United States (For Domestic Consumption),IMP,71729.021,114498.89,34321.607,47908.363,67476.659,54005.113,30147.02,Feb,5011.43,3626.616,06APR2020
+QTY,Finland,Flat Products,United States (For Domestic Consumption),IMP,35090.266,92521.662,23192.788,34872.653,49603.011,35530.8,20912,Feb,3928.917,1553.119,06APR2020
+QTY,Finland,Long Products,United States (For Domestic Consumption),IMP,1088.679,1620.167,1672.709,2749.969,2177.071,3269.599,1090.223,Feb,276.755,658.501,06APR2020
+QTY,Finland,Pipe and Tube Products,United States (For Domestic Consumption),IMP,4497.628,6232.601,5192.696,5931.032,7624.474,6397.16,4555.392,Feb,593.739,920.068,06APR2020
+QTY,Finland,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,21.307,3.811,0,0,0,Feb,0,0,06APR2020
+QTY,Finland,Stainless Products,United States (For Domestic Consumption),IMP,31052.448,14124.46,4242.107,4350.898,8072.103,8807.554,3589.405,Feb,212.019,494.928,06APR2020
+QTY,France,All Steel Mill Products,United States (For Domestic Consumption),IMP,316822.353,438224.918,490283.945,324178.389,272608.108,269493.027,167706.941,Feb,23324.131,13228.337,06APR2020
+QTY,France,Flat Products,United States (For Domestic Consumption),IMP,196005.287,289770.609,317413.596,164431.719,82729.263,91077.583,65128.529,Feb,9667.527,3458.371,06APR2020
+QTY,France,Long Products,United States (For Domestic Consumption),IMP,22173.878,32272.754,72500.474,82643.079,98581.738,97388.638,55046.745,Feb,6750.413,3046.305,06APR2020
+QTY,France,Pipe and Tube Products,United States (For Domestic Consumption),IMP,54304.009,68479.58,44428.944,15183.541,20473.284,14596.815,8829.94,Feb,1186.243,2196.839,06APR2020
+QTY,France,Semi-Finished Products,United States (For Domestic Consumption),IMP,547.195,551.895,928.88,416.71,640.33,227.527,237.349,Feb,1.57,31.991,06APR2020
+QTY,France,Stainless Products,United States (For Domestic Consumption),IMP,43791.984,47150.08,55012.051,61503.34,70183.493,66202.464,38464.378,Feb,5718.378,4494.831,06APR2020
+QTY,United Kingdom,All Steel Mill Products,United States (For Domestic Consumption),IMP,458007.236,1287088.992,757014.658,328820.845,351189.1,281453.685,231103.808,Feb,36694.914,16683.408,06APR2020
+QTY,United Kingdom,Flat Products,United States (For Domestic Consumption),IMP,119609.544,373578.213,367364.866,128765.294,93694.603,105781.79,79673.561,Feb,12577.809,5635.88,06APR2020
+QTY,United Kingdom,Long Products,United States (For Domestic Consumption),IMP,203627.053,256701.76,232022.788,133227.68,144785.791,62331.213,50424.926,Feb,8747.378,2881.803,06APR2020
+QTY,United Kingdom,Pipe and Tube Products,United States (For Domestic Consumption),IMP,72095.784,25855.971,36066.688,17576.102,59837.391,64764.761,57984.599,Feb,8835.162,3733.132,06APR2020
+QTY,United Kingdom,Semi-Finished Products,United States (For Domestic Consumption),IMP,2753.362,569142.676,68069.013,3806.952,4033.84,5056.871,3668.774,Feb,464.726,157.418,06APR2020
+QTY,United Kingdom,Stainless Products,United States (For Domestic Consumption),IMP,59921.493,61810.372,53491.303,45444.817,48837.475,43519.05,39351.948,Feb,6069.839,4275.175,06APR2020
+QTY,Greece,All Steel Mill Products,United States (For Domestic Consumption),IMP,48107.584,44080.6,205274.122,104999.331,49845.519,263847.164,103503.01,Feb,49325.085,191.786,06APR2020
+QTY,Greece,Flat Products,United States (For Domestic Consumption),IMP,0,15.289,9.54,0,0,0,0,Feb,0,0,06APR2020
+QTY,Greece,Long Products,United States (For Domestic Consumption),IMP,394.034,1288.938,1512.064,2291.816,3619.833,41490,26184.818,Feb,21987,191.786,06APR2020
+QTY,Greece,Pipe and Tube Products,United States (For Domestic Consumption),IMP,47713.55,42776.373,203719.15,102707.515,46223.109,222357.164,77318.192,Feb,27338.085,0,06APR2020
+QTY,Greece,Stainless Products,United States (For Domestic Consumption),IMP,0,0,33.368,0,2.577,0,0,Feb,0,0,06APR2020
+QTY,Guatemala,All Steel Mill Products,United States (For Domestic Consumption),IMP,4825.729,2964.726,4007.503,14401.248,31353.319,28080.122,12115.195,Feb,1505.203,1504.754,06APR2020
+QTY,Guatemala,Flat Products,United States (For Domestic Consumption),IMP,25.441,105.893,100.901,8122.753,24108.488,11487.142,178.012,Feb,3.38,18.415,06APR2020
+QTY,Guatemala,Long Products,United States (For Domestic Consumption),IMP,35.297,190.46,50.163,293.839,273.354,1496.106,31.46,Feb,12.053,9.802,06APR2020
+QTY,Guatemala,Pipe and Tube Products,United States (For Domestic Consumption),IMP,4764.991,2668.373,3856.439,5984.656,6971.477,15096.874,11905.723,Feb,1489.77,1476.537,06APR2020
+QTY,Indonesia,All Steel Mill Products,United States (For Domestic Consumption),IMP,7794.561,8320.741,7588.219,14748.662,45742.898,72757.527,67348.187,Feb,12173.496,2476.555,06APR2020
+QTY,Indonesia,Flat Products,United States (For Domestic Consumption),IMP,154.723,0,52.465,3424.775,6925.345,4840.762,8169.661,Feb,1738.977,1486.45,06APR2020
+QTY,Indonesia,Long Products,United States (For Domestic Consumption),IMP,84.438,52.228,123.315,358.539,693.059,1166.538,117.502,Feb,0,0,06APR2020
+QTY,Indonesia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,5227.452,4668.774,3680.135,3351.088,4972.691,9971.102,8457.542,Feb,3108.153,686.819,06APR2020
+QTY,Indonesia,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,7.368,0,0,1.608,0,0,Feb,0,0,06APR2020
+QTY,Indonesia,Stainless Products,United States (For Domestic Consumption),IMP,2327.948,3592.371,3732.304,7614.26,33150.195,56779.125,50603.482,Feb,7326.366,303.286,06APR2020
+QTY,India,All Steel Mill Products,United States (For Domestic Consumption),IMP,667961.562,1010697.644,790362.157,323197.894,752863.66,309564.934,190142.831,Feb,40310.353,18520.99,06APR2020
+QTY,India,Flat Products,United States (For Domestic Consumption),IMP,324756.292,609857.461,458515.072,111963.139,98722.063,7611.388,6943.93,Feb,1064.736,796.638,06APR2020
+QTY,India,Long Products,United States (For Domestic Consumption),IMP,8612.979,13592.061,17952.218,13379.522,40642.282,24957.959,16205.72,Feb,1193.826,1714.448,06APR2020
+QTY,India,Pipe and Tube Products,United States (For Domestic Consumption),IMP,279251.8,205433.07,192117.04,96151.714,462084.618,101958.803,86605.217,Feb,19017.67,7721.013,06APR2020
+QTY,India,Semi-Finished Products,United States (For Domestic Consumption),IMP,1176.547,102275.817,40245.793,34597.969,76331.824,111972.7,30861.169,Feb,8854.776,2489.255,06APR2020
+QTY,India,Stainless Products,United States (For Domestic Consumption),IMP,54163.944,79539.235,81532.034,67105.55,75082.873,63064.084,49526.795,Feb,10179.345,5799.636,06APR2020
+QTY,Italy,All Steel Mill Products,United States (For Domestic Consumption),IMP,501109.755,676126.601,556484.948,404563.257,502058.672,620305.073,535226.616,Feb,157466.382,23013.716,06APR2020
+QTY,Italy,Flat Products,United States (For Domestic Consumption),IMP,127450.814,308811.332,223131.153,145914.637,92757.357,39457.833,7003.561,Feb,923.547,1712.974,06APR2020
+QTY,Italy,Long Products,United States (For Domestic Consumption),IMP,90299.374,65773.001,73599.694,79606.449,128666.307,278285.859,209866.604,Feb,89951.63,4519.749,06APR2020
+QTY,Italy,Pipe and Tube Products,United States (For Domestic Consumption),IMP,144330.669,192755.079,155538.14,74690.125,147357.64,159998.292,140861.648,Feb,30285.338,8016.573,06APR2020
+QTY,Italy,Semi-Finished Products,United States (For Domestic Consumption),IMP,11224.652,23673.313,18534.788,16580.156,34781.021,58865.317,103939.243,Feb,25175.587,50.349,06APR2020
+QTY,Italy,Stainless Products,United States (For Domestic Consumption),IMP,127804.246,85113.876,85681.173,87771.89,98496.347,83697.772,73555.56,Feb,11130.28,8714.071,06APR2020
+QTY,Japan,All Steel Mill Products,United States (For Domestic Consumption),IMP,2269116.444,2438090.121,2411313.159,1950853.343,1728369.637,1367297.662,1136116.267,Feb,209926.644,133148.751,06APR2020
+QTY,Japan,Flat Products,United States (For Domestic Consumption),IMP,661858.194,766453.91,735221.924,444267.215,506580.874,452178.565,341414.302,Feb,73288.313,46033.362,06APR2020
+QTY,Japan,Long Products,United States (For Domestic Consumption),IMP,644671.237,800085.473,973413.253,960507.882,649222.485,558270.316,527131.02,Feb,83284.846,58346.586,06APR2020
+QTY,Japan,Pipe and Tube Products,United States (For Domestic Consumption),IMP,363456.309,288510.573,292252.568,192879.087,171160.03,198043.994,207299.28,Feb,46398.619,19407.209,06APR2020
+QTY,Japan,Semi-Finished Products,United States (For Domestic Consumption),IMP,546749.466,526348.622,358370.003,317321.031,363889.018,117061.658,9712.213,Feb,1110.908,920.076,06APR2020
+QTY,Japan,Stainless Products,United States (For Domestic Consumption),IMP,52381.238,56691.543,52055.411,35878.128,37517.23,41743.129,50559.452,Feb,5843.958,8441.518,06APR2020
+QTY,Korea,All Steel Mill Products,United States (For Domestic Consumption),IMP,3449049.381,4970968.421,4405233.55,3464783.145,3420958.17,2508098.215,2336856.222,Feb,497305,308807.552,06APR2020
+QTY,Korea,Flat Products,United States (For Domestic Consumption),IMP,1303838.133,2073751.422,2436432.039,2105882.093,1079241.031,1225755.841,1168401.075,Feb,226909.155,200075.226,06APR2020
+QTY,Korea,Long Products,United States (For Domestic Consumption),IMP,256732.835,419624.009,428280.866,360657.612,297574.853,221132.512,227000.863,Feb,50548.483,50714.002,06APR2020
+QTY,Korea,Pipe and Tube Products,United States (For Domestic Consumption),IMP,1771904.642,2409303.13,1492482.583,941067.412,1979157.594,1023719.212,905494.393,Feb,210209.778,49679.975,06APR2020
+QTY,Korea,Semi-Finished Products,United States (For Domestic Consumption),IMP,84885.691,24459.403,78.009,336.157,7249.697,23.763,147.367,Feb,145.567,0,06APR2020
+QTY,Korea,Stainless Products,United States (For Domestic Consumption),IMP,31688.08,43830.457,47960.053,56839.871,57734.995,37466.887,35812.524,Feb,9492.017,8338.349,06APR2020
+QTY,Luxembourg,All Steel Mill Products,United States (For Domestic Consumption),IMP,200716.009,283800.507,185718.927,166805.958,206714.068,152657.83,180911.34,Feb,42107.841,22138.409,06APR2020
+QTY,Luxembourg,Flat Products,United States (For Domestic Consumption),IMP,12811.341,45511.492,16456.949,11863.331,17396.139,24193.534,3075.647,Feb,689.297,230.144,06APR2020
+QTY,Luxembourg,Long Products,United States (For Domestic Consumption),IMP,187904.668,238289.015,169259.303,154920.886,189270.983,128461.136,177834.729,Feb,41418.544,21903.671,06APR2020
+QTY,Luxembourg,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,2.675,21.741,46.946,0,0,Feb,0,4.594,06APR2020
+QTY,Luxembourg,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,3.16,0.964,Feb,0,0,06APR2020
+QTY,Morocco,All Steel Mill Products,United States (For Domestic Consumption),IMP,0,0,3.034,0,30453.578,31581.439,22325.554,Feb,0,0,06APR2020
+QTY,Morocco,Flat Products,United States (For Domestic Consumption),IMP,0,0,0,0,9869.218,5048.285,38.24,Feb,0,0,06APR2020
+QTY,Morocco,Long Products,United States (For Domestic Consumption),IMP,0,0,0,0,20584.36,26533.154,22287.314,Feb,0,0,06APR2020
+QTY,Morocco,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,3.034,0,0,0,0,Feb,0,0,06APR2020
+QTY,Mexico,All Steel Mill Products,United States (For Domestic Consumption),IMP,2896166.062,3365443.302,2492879.404,2723990.8,3164550.498,3506931.617,3368989.842,Feb,534419.955,594893.05,06APR2020
+QTY,Mexico,Flat Products,United States (For Domestic Consumption),IMP,822588.391,887460.994,732752.958,907050.295,851563.255,914121.098,705378.886,Feb,163672.568,113879.691,06APR2020
+QTY,Mexico,Long Products,United States (For Domestic Consumption),IMP,713985.117,602297.179,469064.394,512706.828,523260.495,462896.335,495234.677,Feb,54020.906,116981.438,06APR2020
+QTY,Mexico,Pipe and Tube Products,United States (For Domestic Consumption),IMP,567512.251,777186.23,581120.373,606591.962,872724.164,838238.821,609522.869,Feb,109742.045,130488.114,06APR2020
+QTY,Mexico,Semi-Finished Products,United States (For Domestic Consumption),IMP,706922.203,1016694.198,643484.789,621325.375,836824.505,1210243.954,1510892.59,Feb,197748.212,227566.248,06APR2020
+QTY,Mexico,Stainless Products,United States (For Domestic Consumption),IMP,85158.1,81804.701,66456.89,76316.34,80178.079,81431.409,47960.82,Feb,9236.224,5977.559,06APR2020
+QTY,Malaysia,All Steel Mill Products,United States (For Domestic Consumption),IMP,15408.757,7983.754,35919.933,27977.088,98363.402,53287.698,101118.975,Feb,5815.242,1248.272,06APR2020
+QTY,Malaysia,Flat Products,United States (For Domestic Consumption),IMP,0,360.98,3052.095,14715.177,78215.846,40316.545,32789.35,Feb,3991.396,172.269,06APR2020
+QTY,Malaysia,Long Products,United States (For Domestic Consumption),IMP,1159.241,646.193,25586.234,1209.736,9648.385,1509.78,47405.805,Feb,353.617,427.843,06APR2020
+QTY,Malaysia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,5364.391,6151.832,6108.09,7000.353,5455.102,8980.126,18883.88,Feb,922.333,157.966,06APR2020
+QTY,Malaysia,Semi-Finished Products,United States (For Domestic Consumption),IMP,3.926,0,0,123.796,0,5.219,9.49,Feb,0,1.95,06APR2020
+QTY,Malaysia,Stainless Products,United States (For Domestic Consumption),IMP,8881.199,824.749,1173.514,4928.026,5044.069,2476.028,2030.45,Feb,547.896,488.244,06APR2020
+QTY,Netherlands,All Steel Mill Products,United States (For Domestic Consumption),IMP,654829.451,859978.141,745792.343,664222.66,637094.855,553496.723,498877.37,Feb,60002.233,32790.145,06APR2020
+QTY,Netherlands,Flat Products,United States (For Domestic Consumption),IMP,647580.594,851660.786,738795.318,656408.436,589979.967,546269.999,490163.391,Feb,59251.334,31963.895,06APR2020
+QTY,Netherlands,Long Products,United States (For Domestic Consumption),IMP,2895.664,3714.403,3303.364,3242.755,2322.451,2352.964,1846.45,Feb,291.342,183.76,06APR2020
+QTY,Netherlands,Pipe and Tube Products,United States (For Domestic Consumption),IMP,3835.944,4083.353,3544.791,3852.072,4729.071,2584.534,4938.966,Feb,71.077,610.838,06APR2020
+QTY,Netherlands,Semi-Finished Products,United States (For Domestic Consumption),IMP,269.391,308.879,25.475,538.253,39790.812,69.924,6.248,Feb,0.363,0,06APR2020
+QTY,Netherlands,Stainless Products,United States (For Domestic Consumption),IMP,247.858,210.72,123.395,181.144,272.554,2219.302,1922.315,Feb,388.117,31.652,06APR2020
+QTY,New Zealand,All Steel Mill Products,United States (For Domestic Consumption),IMP,127815.472,107583.408,120444.285,36899.577,46417.866,63081.845,9091.668,Feb,0.39,3710.509,06APR2020
+QTY,New Zealand,Flat Products,United States (For Domestic Consumption),IMP,127806.558,107574.778,120435.532,36887.854,46320.479,63078.953,9086.446,Feb,0,3710.047,06APR2020
+QTY,New Zealand,Long Products,United States (For Domestic Consumption),IMP,3.952,6.564,5.954,1.927,8.618,0,0,Feb,0,0,06APR2020
+QTY,New Zealand,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,0.435,0.322,4.705,0.341,4.134,Feb,0.142,0.04,06APR2020
+QTY,New Zealand,Stainless Products,United States (For Domestic Consumption),IMP,4.962,2.066,2.364,9.474,84.064,2.551,1.088,Feb,0.248,0.422,06APR2020
+QTY,Oman,All Steel Mill Products,United States (For Domestic Consumption),IMP,42027.989,62578.819,41999.893,25673.099,43883.032,48762.765,89004.496,Feb,11379.355,9812.475,06APR2020
+QTY,Oman,Long Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,0,37482.862,Feb,0,0,06APR2020
+QTY,Oman,Pipe and Tube Products,United States (For Domestic Consumption),IMP,42027.989,62578.819,41999.893,25671.04,43874.574,48762.765,51521.634,Feb,11379.355,9812.475,06APR2020
+QTY,Oman,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,2.059,8.458,0,0,Feb,0,0,06APR2020
+QTY,Other Countries,All Steel Mill Products,United States (For Domestic Consumption),IMP,73211.765,130206.645,109809.222,106803.813,162383.533,130533.193,186256.285,Feb,27693.361,6426.361,06APR2020
+QTY,Other Countries,Flat Products,United States (For Domestic Consumption),IMP,17673.087,53473.128,37723.906,49698.229,94148.35,48495.8,45976.287,Feb,3856.823,3291.241,06APR2020
+QTY,Other Countries,Long Products,United States (For Domestic Consumption),IMP,13166.002,12366.97,10737.978,22194.035,22343.327,29642.873,86530.772,Feb,11011.003,834.065,06APR2020
+QTY,Other Countries,Pipe and Tube Products,United States (For Domestic Consumption),IMP,25034.089,36874.048,46218.784,21934.686,28226.764,45611.007,51047.755,Feb,12468.918,1793.072,06APR2020
+QTY,Other Countries,Semi-Finished Products,United States (For Domestic Consumption),IMP,9.814,229.354,644.269,69.067,64.079,42.821,147.42,Feb,2.389,1.211,06APR2020
+QTY,Other Countries,Stainless Products,United States (For Domestic Consumption),IMP,17328.773,27263.145,14484.285,12907.796,17601.013,6740.692,2554.051,Feb,354.228,506.772,06APR2020
+QTY,Peru,All Steel Mill Products,United States (For Domestic Consumption),IMP,11178.147,48985.939,17634.691,24278.645,48511.817,31840.693,144.77,Feb,0,1.408,06APR2020
+QTY,Peru,Flat Products,United States (For Domestic Consumption),IMP,0,6389.654,0,0,0,0,0,Feb,0,0,06APR2020
+QTY,Peru,Long Products,United States (For Domestic Consumption),IMP,11178.147,42563.985,17634.691,24278.645,48510.271,31840.693,144.77,Feb,0,1.408,06APR2020
+QTY,Peru,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,32.3,0,0,1.266,0,0,Feb,0,0,06APR2020
+QTY,Peru,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,0,0.28,0,0,Feb,0,0,06APR2020
+QTY,Philippines,All Steel Mill Products,United States (For Domestic Consumption),IMP,97288.653,79163.606,57275.956,16927.339,63008.609,61289.73,46648.434,Feb,20267.311,0.367,06APR2020
+QTY,Philippines,Flat Products,United States (For Domestic Consumption),IMP,0,0,0,111.359,1108.951,9.967,0,Feb,0,0,06APR2020
+QTY,Philippines,Long Products,United States (For Domestic Consumption),IMP,0,0,0,0.201,12.296,0,0,Feb,0,0,06APR2020
+QTY,Philippines,Pipe and Tube Products,United States (For Domestic Consumption),IMP,97285.008,79066.508,56737.165,16437.503,61604.081,61231.647,46646.542,Feb,20266.965,0,06APR2020
+QTY,Philippines,Stainless Products,United States (For Domestic Consumption),IMP,3.645,97.098,538.791,378.276,283.281,48.116,1.892,Feb,0.346,0.367,06APR2020
+QTY,Portugal,All Steel Mill Products,United States (For Domestic Consumption),IMP,9850.771,15929.848,6262.808,21213.934,133128.515,52508.072,9138.077,Feb,1242.648,948.93,06APR2020
+QTY,Portugal,Flat Products,United States (For Domestic Consumption),IMP,0,7.785,103.193,1718.982,2356.912,1007.453,920.149,Feb,43.755,168.278,06APR2020
+QTY,Portugal,Long Products,United States (For Domestic Consumption),IMP,6606.111,12194.995,1416.055,4055.159,108549.522,39823.574,42.434,Feb,4.494,4.233,06APR2020
+QTY,Portugal,Pipe and Tube Products,United States (For Domestic Consumption),IMP,75.735,0,0,10404.204,14678.296,3282.607,1232.635,Feb,65.051,41.675,06APR2020
+QTY,Portugal,Stainless Products,United States (For Domestic Consumption),IMP,3168.925,3727.068,4743.56,5035.589,7543.785,8394.438,6942.859,Feb,1129.348,734.744,06APR2020
+QTY,Romania,All Steel Mill Products,United States (For Domestic Consumption),IMP,96920.129,121505.481,84964.673,40336.006,76290.174,248126.007,197738.784,Feb,58065.317,73988.379,06APR2020
+QTY,Romania,Flat Products,United States (For Domestic Consumption),IMP,0,2.888,32.28,0,162.601,2162.235,2100.174,Feb,465.785,841.897,06APR2020
+QTY,Romania,Long Products,United States (For Domestic Consumption),IMP,216.778,382.524,1117.695,1025.545,11317.505,1023.126,742.082,Feb,203.781,207.437,06APR2020
+QTY,Romania,Pipe and Tube Products,United States (For Domestic Consumption),IMP,95166.276,118662.787,81685.695,37214.22,59818.92,75653.789,46422.781,Feb,10166.38,5608.606,06APR2020
+QTY,Romania,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,0,0.52,1613.06,167065.091,147192.32,Feb,47049.051,67121.002,06APR2020
+QTY,Romania,Stainless Products,United States (For Domestic Consumption),IMP,1537.075,2457.282,2129.003,2095.721,3378.088,2221.766,1281.427,Feb,180.32,209.437,06APR2020
+QTY,Serbia,All Steel Mill Products,United States (For Domestic Consumption),IMP,0,0,252.8,8538.539,36424.079,58415.626,18015.324,Feb,6061.9,227.77,06APR2020
+QTY,Serbia,Flat Products,United States (For Domestic Consumption),IMP,0,0,252.8,8538.539,36423.49,58414.977,18013.262,Feb,6061.9,227.77,06APR2020
+QTY,Serbia,Long Products,United States (For Domestic Consumption),IMP,0,0,0,0,0.589,0.595,0,Feb,0,0,06APR2020
+QTY,Serbia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,0,2.062,Feb,0,0,06APR2020
+QTY,Serbia,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,0.054,0,Feb,0,0,06APR2020
+QTY,Russia,All Steel Mill Products,United States (For Domestic Consumption),IMP,1683558.626,4259339.606,1925830.323,1920983.677,2816018.47,2296770.639,977078.674,Feb,220433.973,145292.978,06APR2020
+QTY,Russia,Flat Products,United States (For Domestic Consumption),IMP,35073.204,989670.48,120471.758,30493.852,456085.994,158402.301,24574.767,Feb,204.74,1194.467,06APR2020
+QTY,Russia,Long Products,United States (For Domestic Consumption),IMP,27243.367,92909.949,41514.112,162929.739,68563.961,20732.202,15114.05,Feb,225.599,45.282,06APR2020
+QTY,Russia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,156033.158,208119.667,168418.478,87739.447,196799.795,281446.359,237500.88,Feb,67531.436,22263.844,06APR2020
+QTY,Russia,Semi-Finished Products,United States (For Domestic Consumption),IMP,1463790.289,2968639.51,1595424.975,1639796.13,2093689.168,1835310.452,699308.5,Feb,151891.721,121789.385,06APR2020
+QTY,Russia,Stainless Products,United States (For Domestic Consumption),IMP,1418.608,0,1,24.509,879.552,879.325,580.477,Feb,580.477,0,06APR2020
+QTY,Saudi Arabia,All Steel Mill Products,United States (For Domestic Consumption),IMP,75183.412,74624.967,101286.847,11896.833,74784.124,76331.897,92033.815,Feb,32423.173,4672.203,06APR2020
+QTY,Saudi Arabia,Flat Products,United States (For Domestic Consumption),IMP,0,24307.51,55950.172,0,2453.26,4229.423,5141.198,Feb,505.552,1643.157,06APR2020
+QTY,Saudi Arabia,Long Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,0,24.799,Feb,0,0,06APR2020
+QTY,Saudi Arabia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,73957.802,49476.318,44516.737,11327.427,71555.254,71160.949,85544.709,Feb,31752.161,2898.002,06APR2020
+QTY,Saudi Arabia,Stainless Products,United States (For Domestic Consumption),IMP,1225.61,841.139,819.938,569.406,775.61,941.525,1323.109,Feb,165.46,131.044,06APR2020
+QTY,Sweden,All Steel Mill Products,United States (For Domestic Consumption),IMP,244764.326,288718.778,256410.868,281131.701,302591.111,278987.362,202792.15,Feb,31553.834,16489.411,06APR2020
+QTY,Sweden,Flat Products,United States (For Domestic Consumption),IMP,162353.632,193756.837,184238.343,215963.81,218730.015,192881.021,147768.447,Feb,21826.268,8047.256,06APR2020
+QTY,Sweden,Long Products,United States (For Domestic Consumption),IMP,17740.308,25832.375,23194.875,21202.037,24981.82,27620.067,13340.426,Feb,2378.885,1062.651,06APR2020
+QTY,Sweden,Pipe and Tube Products,United States (For Domestic Consumption),IMP,8331.071,6599.102,5157.908,3856.13,4981.158,4760.582,1390.033,Feb,324.069,109.027,06APR2020
+QTY,Sweden,Semi-Finished Products,United States (For Domestic Consumption),IMP,41.052,103.835,65.761,111.751,386.072,139.559,10.154,Feb,3.946,0.868,06APR2020
+QTY,Sweden,Stainless Products,United States (For Domestic Consumption),IMP,56298.263,62426.629,43753.981,39997.973,53512.046,53586.133,40283.09,Feb,7020.666,7269.609,06APR2020
+QTY,Slovenia,All Steel Mill Products,United States (For Domestic Consumption),IMP,16733.625,22331.173,24241.502,22006.766,31070.324,25770.349,23017.185,Feb,3868.723,4244.704,06APR2020
+QTY,Slovenia,Flat Products,United States (For Domestic Consumption),IMP,2290.36,3781.077,5239.815,4161.103,9303.36,8347.706,5385.329,Feb,726.762,426.282,06APR2020
+QTY,Slovenia,Long Products,United States (For Domestic Consumption),IMP,6902.619,8658.906,9406.781,8883.425,9954.195,7600.117,8357.331,Feb,1447.607,1484.268,06APR2020
+QTY,Slovenia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,1.318,0.913,8.08,16.976,359.943,Feb,3.555,12.061,06APR2020
+QTY,Slovenia,Semi-Finished Products,United States (For Domestic Consumption),IMP,735.45,678.73,463.43,269.64,179.279,59.686,33.7,Feb,0,40.62,06APR2020
+QTY,Slovenia,Stainless Products,United States (For Domestic Consumption),IMP,6805.196,9212.46,9130.158,8691.685,11625.41,9745.864,8880.882,Feb,1690.799,2281.473,06APR2020
+QTY,Slovakia,All Steel Mill Products,United States (For Domestic Consumption),IMP,9344.825,76434.655,6065.589,5940.18,52989.13,29966.292,10032.866,Feb,1709.472,1169.892,06APR2020
+QTY,Slovakia,Flat Products,United States (For Domestic Consumption),IMP,13.942,19.004,162.655,2057.552,2451.366,2027.693,1398.373,Feb,58.866,81.21,06APR2020
+QTY,Slovakia,Long Products,United States (For Domestic Consumption),IMP,154.2,448.482,1515.956,860.176,1365.144,1456.707,2025.525,Feb,391.406,350.821,06APR2020
+QTY,Slovakia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,9142.098,7531.613,4368.236,3007.852,6788.895,6720.922,6535.866,Feb,1223.2,737.861,06APR2020
+QTY,Slovakia,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,68387.76,0,0,42349.55,19760.97,72,Feb,36,0,06APR2020
+QTY,Slovakia,Stainless Products,United States (For Domestic Consumption),IMP,34.585,47.796,18.742,14.6,34.175,0,1.102,Feb,0,0,06APR2020
+QTY,Thailand,All Steel Mill Products,United States (For Domestic Consumption),IMP,96333.311,86333.021,106954.589,140329.229,410467.176,331589.856,277532.898,Feb,61673.692,26020.634,06APR2020
+QTY,Thailand,Flat Products,United States (For Domestic Consumption),IMP,1339.048,103.637,4.397,63955.184,193834.875,117145.344,62186.763,Feb,13178.101,1939,06APR2020
+QTY,Thailand,Long Products,United States (For Domestic Consumption),IMP,4310.639,5635.93,4720.914,1302.124,1082.513,4078.71,5356.74,Feb,1340.068,615.156,06APR2020
+QTY,Thailand,Pipe and Tube Products,United States (For Domestic Consumption),IMP,79482.753,75975.044,99037.042,68700.812,205405.752,206388.13,201455.095,Feb,45671.63,22193.179,06APR2020
+QTY,Thailand,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,365.306,0,24.404,18.39,10.514,0,Feb,0,0,06APR2020
+QTY,Thailand,Stainless Products,United States (For Domestic Consumption),IMP,11200.871,4253.104,3192.236,6346.705,10125.646,3967.158,8534.3,Feb,1483.893,1273.299,06APR2020
+QTY,Turkey,All Steel Mill Products,United States (For Domestic Consumption),IMP,1091836.8,1985243.426,2588035.795,2197307.336,1990295.801,1062298.185,297234.321,Feb,91226.599,112181.47,06APR2020
+QTY,Turkey,Flat Products,United States (For Domestic Consumption),IMP,61585.209,480908.084,427132.014,478504.548,739828.751,433287.696,43686.912,Feb,13931.857,1335.645,06APR2020
+QTY,Turkey,Long Products,United States (For Domestic Consumption),IMP,735822.61,1179859.386,1798124.807,1510163.367,1025640.181,393353.178,116640.132,Feb,16425.318,99895.76,06APR2020
+QTY,Turkey,Pipe and Tube Products,United States (For Domestic Consumption),IMP,294157.652,316654.036,358313.14,201347.942,220955.64,234317.624,135977.068,Feb,60596.341,10931.226,06APR2020
+QTY,Turkey,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,0,0,71.79,0,0.196,Feb,0,0,06APR2020
+QTY,Turkey,Stainless Products,United States (For Domestic Consumption),IMP,271.329,7821.92,4465.834,7291.479,3799.439,1339.687,930.013,Feb,273.083,18.839,06APR2020
+QTY,Taiwan,All Steel Mill Products,United States (For Domestic Consumption),IMP,692882.007,1078178.719,1094672.208,982433.655,1128714.265,974435.472,753264.736,Feb,156977.669,68715.121,06APR2020
+QTY,Taiwan,Flat Products,United States (For Domestic Consumption),IMP,436113.267,723494.127,710708.025,595364.826,693926.792,445844.039,302797.994,Feb,52543.793,44611.474,06APR2020
+QTY,Taiwan,Long Products,United States (For Domestic Consumption),IMP,29220.373,74821.573,117815.439,180060.281,77601.164,96943.537,52262.236,Feb,12210.977,1962.822,06APR2020
+QTY,Taiwan,Pipe and Tube Products,United States (For Domestic Consumption),IMP,129880.957,167030.437,152227.859,96113.831,231353.101,308116.58,300066.482,Feb,74484.574,7867.282,06APR2020
+QTY,Taiwan,Semi-Finished Products,United States (For Domestic Consumption),IMP,78.702,61.752,142.106,176.153,93.15,64.147,8.236,Feb,0,3.572,06APR2020
+QTY,Taiwan,Stainless Products,United States (For Domestic Consumption),IMP,97588.708,112770.83,113778.779,110718.564,125740.058,123467.169,98129.788,Feb,17738.325,14269.971,06APR2020
+QTY,Ukraine,All Steel Mill Products,United States (For Domestic Consumption),IMP,118425.999,110110.038,153570.752,194761.762,241312.657,188902.327,218794.426,Feb,45665.094,5752.453,06APR2020
+QTY,Ukraine,Flat Products,United States (For Domestic Consumption),IMP,30.338,5022.966,9751.274,9859.704,62077.462,47725.76,45215.068,Feb,19708.218,0,06APR2020
+QTY,Ukraine,Long Products,United States (For Domestic Consumption),IMP,4474.973,22016.312,79055.853,152405.198,101882.91,10222.594,3722.899,Feb,1720.817,140.634,06APR2020
+QTY,Ukraine,Pipe and Tube Products,United States (For Domestic Consumption),IMP,109946.927,78065.941,50430.865,30151.483,72999.722,126062.48,162259.174,Feb,23204.449,4597.592,06APR2020
+QTY,Ukraine,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,10034.32,0,0,0,290.15,Feb,0,0,06APR2020
+QTY,Ukraine,Stainless Products,United States (For Domestic Consumption),IMP,3973.761,5004.819,4298.44,2345.377,4352.563,4891.493,7307.135,Feb,1031.61,1014.227,06APR2020
+QTY,Venezuela,All Steel Mill Products,United States (For Domestic Consumption),IMP,42.625,18.905,27531.799,7507.408,4001.223,22791.697,2161.238,Feb,2161.238,0,06APR2020
+QTY,Venezuela,Flat Products,United States (For Domestic Consumption),IMP,0,0,27531.799,7507.408,0,19.568,0,Feb,0,0,06APR2020
+QTY,Venezuela,Long Products,United States (For Domestic Consumption),IMP,42.625,17.91,0,0,4001.223,22772.129,2161.238,Feb,2161.238,0,06APR2020
+QTY,Venezuela,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0.995,0,0,0,0,0,Feb,0,0,06APR2020
+QTY,Vietnam,All Steel Mill Products,United States (For Domestic Consumption),IMP,249611.738,139358.468,223305.478,849478.187,679072.805,1007099.379,601689.088,Feb,133364.588,48571.04,06APR2020
+QTY,Vietnam,Flat Products,United States (For Domestic Consumption),IMP,436.384,2910.814,83238.088,713238.751,420956.143,782332.94,380498.016,Feb,97494.253,23721.285,06APR2020
+QTY,Vietnam,Long Products,United States (For Domestic Consumption),IMP,10291.066,14813.607,16603.734,37444.928,101275.3,60842.752,49518.674,Feb,18956.238,3914.54,06APR2020
+QTY,Vietnam,Pipe and Tube Products,United States (For Domestic Consumption),IMP,229852.71,107513.338,110913.075,72798.778,122027.543,136229.882,141582.854,Feb,10870.591,17038.364,06APR2020
+QTY,Vietnam,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,18.672,0,0,0,0,Feb,0,0,06APR2020
+QTY,Vietnam,Stainless Products,United States (For Domestic Consumption),IMP,9031.578,14120.709,12531.909,25995.73,34813.819,27693.805,30089.544,Feb,6043.506,3896.851,06APR2020
+QTY,World,All Steel Mill Products,United States (For Domestic Consumption),IMP,29221782.086,40331232.445,35434640.601,30036116.501,34647458.273,30673694.392,25400748.576,Feb,5368494.001,4239785.399,06APR2020
+QTY,World,Flat Products,United States (For Domestic Consumption),IMP,9295308.446,15113699.83,14299373.811,12103479.515,12045031.35,11108176.038,8803311.994,Feb,1615054.943,1392594.18,06APR2020
+QTY,World,Long Products,United States (For Domestic Consumption),IMP,5598054.163,6842688.233,7265149.526,6940328.874,6506922.793,4993033.09,4322089.384,Feb,827544.812,670175.711,06APR2020
+QTY,World,Pipe and Tube Products,United States (For Domestic Consumption),IMP,6841889.717,7814379.505,6352192.775,4069199.267,7487132.141,6430377.829,5381001.141,Feb,1250625.669,570620.507,06APR2020
+QTY,World,Semi-Finished Products,United States (For Domestic Consumption),IMP,6521609.43,9464446.581,6487304.325,6004807.215,7500036.422,7185288.647,6127767.726,Feb,1541453.208,1494668.096,06APR2020
+QTY,World,Stainless Products,United States (For Domestic Consumption),IMP,964920.33,1096018.296,1030620.164,918301.63,1108335.567,956818.788,766578.331,Feb,133815.369,111726.905,06APR2020
+QTY,South Africa,All Steel Mill Products,United States (For Domestic Consumption),IMP,69429.172,148614.905,167910.44,200035.209,330987.497,199176.412,228081.571,Feb,82411.769,21320.412,06APR2020
+QTY,South Africa,Flat Products,United States (For Domestic Consumption),IMP,13824.175,59461.503,74100.004,141379.344,205333.678,105371.639,109728.125,Feb,45113.658,12895.51,06APR2020
+QTY,South Africa,Long Products,United States (For Domestic Consumption),IMP,2014.319,1262.601,46029.815,22451.789,32334.985,21575.1,56047.175,Feb,20206.907,227.06,06APR2020
+QTY,South Africa,Pipe and Tube Products,United States (For Domestic Consumption),IMP,26281.365,54612.832,28196.499,16078.714,73494.824,61028.454,50182.687,Feb,14138.908,4691.055,06APR2020
+QTY,South Africa,Stainless Products,United States (For Domestic Consumption),IMP,27309.313,33277.969,19584.122,20125.362,19824.01,11201.219,12123.584,Feb,2952.296,3506.787,06APR2020
+VALUE,United Arab Emirates,All Steel Mill Products,United States (For Domestic Consumption),IMP,57451837,85062989,116755098,97551300,217577015,194564297,193225928,Feb,38138936,26995662,06APR2020
+VALUE,United Arab Emirates,Flat Products,United States (For Domestic Consumption),IMP,0,4379433,1997154,42076747,117564703,103325733,72357615,Feb,20450836,8823373,06APR2020
+VALUE,United Arab Emirates,Long Products,United States (For Domestic Consumption),IMP,7874601,11767176,26404836,20587583,16922179,13022410,23065255,Feb,2378907,3086876,06APR2020
+VALUE,United Arab Emirates,Pipe and Tube Products,United States (For Domestic Consumption),IMP,43092510,60834357,79236596,30639537,74962337,69320811,89922283,Feb,13574634,14219566,06APR2020
+VALUE,United Arab Emirates,Stainless Products,United States (For Domestic Consumption),IMP,6484726,8082023,9116512,4247433,8127796,8895343,7880775,Feb,1734559,865847,06APR2020
+VALUE,Argentina,All Steel Mill Products,United States (For Domestic Consumption),IMP,392770378,335111524,178586747,74707303,225228223,216322605,245894377,Feb,29129835,19571934,06APR2020
+VALUE,Argentina,Flat Products,United States (For Domestic Consumption),IMP,0,0,4406301,14727607,250077,3160814,9814152,Feb,2496064,2229517,06APR2020
+VALUE,Argentina,Long Products,United States (For Domestic Consumption),IMP,0,0,16897,1323916,916047,1004072,224361,Feb,124137,28072,06APR2020
+VALUE,Argentina,Pipe and Tube Products,United States (For Domestic Consumption),IMP,392607118,335060834,174154612,58557248,224062099,212143269,235855864,Feb,26509634,17314345,06APR2020
+VALUE,Argentina,Stainless Products,United States (For Domestic Consumption),IMP,163260,50690,8937,98532,0,14450,0,Feb,0,0,06APR2020
+VALUE,Austria,All Steel Mill Products,United States (For Domestic Consumption),IMP,485634244,543408152,384111255,263244588,428411354,518118043,397650892,Feb,76216646,59445980,06APR2020
+VALUE,Austria,Flat Products,United States (For Domestic Consumption),IMP,85861495,99286071,79864392,91337571,128698506,159950842,142036782,Feb,24174071,33360927,06APR2020
+VALUE,Austria,Long Products,United States (For Domestic Consumption),IMP,47169228,55353042,49130226,42133020,36977723,52712728,56109722,Feb,10195084,6209132,06APR2020
+VALUE,Austria,Pipe and Tube Products,United States (For Domestic Consumption),IMP,295662969,323162461,177143838,97848010,185711655,256016461,169754804,Feb,37992547,16028328,06APR2020
+VALUE,Austria,Semi-Finished Products,United States (For Domestic Consumption),IMP,139011,231937,91296,99975,139133,162770,38234,Feb,6724,5238,06APR2020
+VALUE,Austria,Stainless Products,United States (For Domestic Consumption),IMP,56801541,65374641,77881503,31826012,76884337,49275242,29711350,Feb,3848220,3842355,06APR2020
+VALUE,Australia,All Steel Mill Products,United States (For Domestic Consumption),IMP,83648380,169592801,168351591,145204827,210514872,240102224,252129038,Feb,39052416,28702214,06APR2020
+VALUE,Australia,Flat Products,United States (For Domestic Consumption),IMP,74214892,149054370,150681316,131033038,196320386,203441196,222214094,Feb,36883345,25484279,06APR2020
+VALUE,Australia,Long Products,United States (For Domestic Consumption),IMP,8821745,14921895,11755490,10933016,12250164,33570481,24248870,Feb,1886699,2071908,06APR2020
+VALUE,Australia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,109914,599841,29374,44580,96467,19677,56763,Feb,42296,10000,06APR2020
+VALUE,Australia,Semi-Finished Products,United States (For Domestic Consumption),IMP,54695,40965,40698,35699,0,12000,684410,Feb,0,0,06APR2020
+VALUE,Australia,Stainless Products,United States (For Domestic Consumption),IMP,447134,4975730,5844713,3158494,1847855,3058870,4924901,Feb,240076,1136027,06APR2020
+VALUE,Belgium,All Steel Mill Products,United States (For Domestic Consumption),IMP,194217921,268531294,173120458,204481075,176831900,258034376,162234006,Feb,27808924,20626948,06APR2020
+VALUE,Belgium,Flat Products,United States (For Domestic Consumption),IMP,86222750,132220419,83863963,118480949,94504093,130333288,79376309,Feb,13203148,6581464,06APR2020
+VALUE,Belgium,Long Products,United States (For Domestic Consumption),IMP,8396746,7648806,5492754,12845942,9576709,7488691,2696072,Feb,842764,389701,06APR2020
+VALUE,Belgium,Pipe and Tube Products,United States (For Domestic Consumption),IMP,321888,460294,498925,217531,226166,472119,265462,Feb,34462,33221,06APR2020
+VALUE,Belgium,Semi-Finished Products,United States (For Domestic Consumption),IMP,754705,274570,0,0,0,5295,134640,Feb,48960,38799,06APR2020
+VALUE,Belgium,Stainless Products,United States (For Domestic Consumption),IMP,98521832,127927205,83264816,72936653,72524932,119734983,79761523,Feb,13679590,13583763,06APR2020
+VALUE,Bulgaria,All Steel Mill Products,United States (For Domestic Consumption),IMP,9114,18469136,2946669,1420498,126620,23358951,39574902,Feb,26031234,25066,06APR2020
+VALUE,Bulgaria,Flat Products,United States (For Domestic Consumption),IMP,0,18469136,2924677,1416323,0,0,3421481,Feb,3421481,0,06APR2020
+VALUE,Bulgaria,Long Products,United States (For Domestic Consumption),IMP,0,0,0,0,84004,23358951,36153421,Feb,22609753,25066,06APR2020
+VALUE,Bulgaria,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,0,4175,2616,0,0,Feb,0,0,06APR2020
+VALUE,Bulgaria,Stainless Products,United States (For Domestic Consumption),IMP,9114,0,21992,0,40000,0,0,Feb,0,0,06APR2020
+VALUE,Brazil,All Steel Mill Products,United States (For Domestic Consumption),IMP,2070335261,2650484326,2363607451,1639678208,2451733630,2492723797,2323329989,Feb,739156318,582536831,06APR2020
+VALUE,Brazil,Flat Products,United States (For Domestic Consumption),IMP,66652779,332629271,578001716,278848376,300085627,130223876,217748706,Feb,69471198,42329109,06APR2020
+VALUE,Brazil,Long Products,United States (For Domestic Consumption),IMP,106690337,120641023,129891035,117921511,197308985,132622446,143792361,Feb,37129380,21111549,06APR2020
+VALUE,Brazil,Pipe and Tube Products,United States (For Domestic Consumption),IMP,70549747,114715073,137700287,25239902,203096764,121835610,103361753,Feb,28471594,37146027,06APR2020
+VALUE,Brazil,Semi-Finished Products,United States (For Domestic Consumption),IMP,1798082007,2051643011,1478543504,1177959722,1713466917,2081007249,1829729484,Feb,596084594,476379201,06APR2020
+VALUE,Brazil,Stainless Products,United States (For Domestic Consumption),IMP,28360391,30855948,39470909,39708697,37775337,27034616,28697685,Feb,7999552,5570945,06APR2020
+VALUE,Belarus,All Steel Mill Products,United States (For Domestic Consumption),IMP,58010299,80648827,41777255,16037045,34863074,46634956,15051956,Feb,2361605,3512928,06APR2020
+VALUE,Belarus,Long Products,United States (For Domestic Consumption),IMP,5675584,8477386,9078349,13401624,14351566,5703942,2565159,Feb,341325,301988,06APR2020
+VALUE,Belarus,Pipe and Tube Products,United States (For Domestic Consumption),IMP,52334715,72171441,32698906,2635421,19005876,40931014,12486797,Feb,2020280,3210940,06APR2020
+VALUE,Belarus,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,0,1505632,0,0,Feb,0,0,06APR2020
+VALUE,Canada,All Steel Mill Products,United States (For Domestic Consumption),IMP,5122765790,5728227083,4734919574,4080967490,5196400585,5525443225,4499185125,Feb,793775760,795863142,06APR2020
+VALUE,Canada,Flat Products,United States (For Domestic Consumption),IMP,2258047075,2593979786,2158830676,2193004704,2686351313,3151037041,2633498610,Feb,426831925,514916683,06APR2020
+VALUE,Canada,Long Products,United States (For Domestic Consumption),IMP,1152486929,1270456660,1086170747,933484278,1078400492,973305591,719743524,Feb,118347794,135248408,06APR2020
+VALUE,Canada,Pipe and Tube Products,United States (For Domestic Consumption),IMP,1393623564,1415089679,1157823787,684473290,1091031977,1182972483,915040180,Feb,231873792,116995108,06APR2020
+VALUE,Canada,Semi-Finished Products,United States (For Domestic Consumption),IMP,136258825,225868978,122479438,88795992,118335407,61255722,131378581,Feb,2945951,8828812,06APR2020
+VALUE,Canada,Stainless Products,United States (For Domestic Consumption),IMP,182349397,222831980,209614926,181209226,222281396,156872388,99524230,Feb,13776298,19874131,06APR2020
+VALUE,China,All Steel Mill Products,United States (For Domestic Consumption),IMP,1788848073,2861330187,2184044461,921776143,998914677,916429365,742063230,Feb,163986893,78217108,06APR2020
+VALUE,China,Flat Products,United States (For Domestic Consumption),IMP,573477216,1357540163,913757466,143713506,157378301,122000847,115977452,Feb,20647736,9880482,06APR2020
+VALUE,China,Long Products,United States (For Domestic Consumption),IMP,647671722,675171117,484436751,332089480,344030048,399111144,312526043,Feb,72099206,32268777,06APR2020
+VALUE,China,Pipe and Tube Products,United States (For Domestic Consumption),IMP,199497748,264372905,244036333,220240614,267197008,181889836,117087647,Feb,26795088,14969373,06APR2020
+VALUE,China,Semi-Finished Products,United States (For Domestic Consumption),IMP,9300594,8940655,7508414,6322515,10032882,8264084,4764172,Feb,890055,117071,06APR2020
+VALUE,China,Stainless Products,United States (For Domestic Consumption),IMP,358900793,555305347,534305497,219410028,220276438,205163454,191707916,Feb,43554808,20981405,06APR2020
+VALUE,Colombia,All Steel Mill Products,United States (For Domestic Consumption),IMP,21009433,27720579,21313647,13684821,38356008,31463652,11081853,Feb,2102374,37777,06APR2020
+VALUE,Colombia,Flat Products,United States (For Domestic Consumption),IMP,1738535,2693902,1622242,8318422,23419042,15801799,5964591,Feb,774579,15994,06APR2020
+VALUE,Colombia,Long Products,United States (For Domestic Consumption),IMP,2000676,2071662,2082227,1649448,5910418,1041683,234150,Feb,48097,0,06APR2020
+VALUE,Colombia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,16833960,22269274,16970625,3714083,8818024,13826299,4883112,Feb,1279698,21783,06APR2020
+VALUE,Colombia,Stainless Products,United States (For Domestic Consumption),IMP,436262,685741,638553,2868,208524,793871,0,Feb,0,0,06APR2020
+VALUE,Czech Republic,All Steel Mill Products,United States (For Domestic Consumption),IMP,224464406,296977421,172414358,139196790,147759478,122873056,114708799,Feb,22907338,29237776,06APR2020
+VALUE,Czech Republic,Flat Products,United States (For Domestic Consumption),IMP,9239613,3044295,5996677,6781125,7344216,1699650,894170,Feb,86901,0,06APR2020
+VALUE,Czech Republic,Long Products,United States (For Domestic Consumption),IMP,78340234,109161716,69296085,43370775,48629169,51379101,35874283,Feb,4323410,6145163,06APR2020
+VALUE,Czech Republic,Pipe and Tube Products,United States (For Domestic Consumption),IMP,100674747,102942102,43574891,20381327,48705298,53586430,58499719,Feb,16071458,5212164,06APR2020
+VALUE,Czech Republic,Semi-Finished Products,United States (For Domestic Consumption),IMP,25445,3586,0,39187,0,0,0,Feb,0,0,06APR2020
+VALUE,Czech Republic,Stainless Products,United States (For Domestic Consumption),IMP,36184367,81825722,53546705,68624376,43080795,16207875,19440627,Feb,2425569,17880449,06APR2020
+VALUE,Germany,All Steel Mill Products,United States (For Domestic Consumption),IMP,1573760159,1840659188,1992430373,1561800038,1840345667,1719156621,1352337145,Feb,247702433,185519471,06APR2020
+VALUE,Germany,Flat Products,United States (For Domestic Consumption),IMP,518189106,550035812,664275636,627937667,654346566,658767179,507465234,Feb,93361698,51366900,06APR2020
+VALUE,Germany,Long Products,United States (For Domestic Consumption),IMP,286813385,357074940,366932928,256319165,314486732,315852400,217708591,Feb,46774146,22982385,06APR2020
+VALUE,Germany,Pipe and Tube Products,United States (For Domestic Consumption),IMP,567735730,683334406,606311232,259191829,357562829,429229863,366828044,Feb,83945897,36683917,06APR2020
+VALUE,Germany,Semi-Finished Products,United States (For Domestic Consumption),IMP,8678581,27206998,23394828,5473737,16814888,8833257,6770994,Feb,397519,1475651,06APR2020
+VALUE,Germany,Stainless Products,United States (For Domestic Consumption),IMP,192343357,223007032,331515749,412877640,497134652,306473922,253564282,Feb,23223173,73010618,06APR2020
+VALUE,Dominican Republic,All Steel Mill Products,United States (For Domestic Consumption),IMP,27387952,16053739,11409207,16986981,27195715,42354320,41931185,Feb,6049769,5906037,06APR2020
+VALUE,Dominican Republic,Flat Products,United States (For Domestic Consumption),IMP,0,46256,66956,311268,1364436,2555066,280930,Feb,97076,19155,06APR2020
+VALUE,Dominican Republic,Long Products,United States (For Domestic Consumption),IMP,19975463,11515524,5927317,8423143,14897128,29632958,34786301,Feb,4726639,4760589,06APR2020
+VALUE,Dominican Republic,Pipe and Tube Products,United States (For Domestic Consumption),IMP,7412489,4491959,5414934,8233580,10934151,10166296,6793054,Feb,1226054,1126293,06APR2020
+VALUE,Dominican Republic,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,0,70900,Feb,0,0,06APR2020
+VALUE,Dominican Republic,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,18990,0,0,0,Feb,0,0,06APR2020
+VALUE,Egypt,All Steel Mill Products,United States (For Domestic Consumption),IMP,0,15282078,14152,5434040,100319803,95362656,59468593,Feb,24252472,1033574,06APR2020
+VALUE,Egypt,Flat Products,United States (For Domestic Consumption),IMP,0,0,14152,5284790,78228253,65317300,35757621,Feb,10506974,1033574,06APR2020
+VALUE,Egypt,Long Products,United States (For Domestic Consumption),IMP,0,15282078,0,142050,22091550,30045356,23710972,Feb,13745498,0,06APR2020
+VALUE,Egypt,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,7200,0,0,0,Feb,0,0,06APR2020
+VALUE,Spain,All Steel Mill Products,United States (For Domestic Consumption),IMP,307965665,432583882,318741785,218430483,369001758,360526109,344833353,Feb,76725383,45189835,06APR2020
+VALUE,Spain,Flat Products,United States (For Domestic Consumption),IMP,2383159,14548757,7556525,10022859,3011087,5122377,8925228,Feb,976780,1609841,06APR2020
+VALUE,Spain,Long Products,United States (For Domestic Consumption),IMP,110841736,183250511,136586503,129099474,175382221,128109949,174467067,Feb,21576260,19736036,06APR2020
+VALUE,Spain,Pipe and Tube Products,United States (For Domestic Consumption),IMP,101352605,135757730,106689333,37425357,122394204,151745909,113898484,Feb,44777380,14343600,06APR2020
+VALUE,Spain,Semi-Finished Products,United States (For Domestic Consumption),IMP,39051,65573,3075990,814859,534253,1641172,6300,Feb,0,0,06APR2020
+VALUE,Spain,Stainless Products,United States (For Domestic Consumption),IMP,93349114,98961311,64833434,41067934,67679993,73906702,47536274,Feb,9394963,9500358,06APR2020
+VALUE,Finland,All Steel Mill Products,United States (For Domestic Consumption),IMP,140524369,157621986,56355489,59864714,92493804,87603106,47455631,Feb,6582313,7121562,06APR2020
+VALUE,Finland,Flat Products,United States (For Domestic Consumption),IMP,32096769,80860836,18544555,25021302,39042619,30859993,18635583,Feb,3320434,1680175,06APR2020
+VALUE,Finland,Long Products,United States (For Domestic Consumption),IMP,1767213,2196925,2050480,3136779,2889600,4407437,1440988,Feb,449074,642659,06APR2020
+VALUE,Finland,Pipe and Tube Products,United States (For Domestic Consumption),IMP,19703646,28147046,20954248,20670189,30307000,26485171,16675072,Feb,2023069,3577604,06APR2020
+VALUE,Finland,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,13864,4459,0,0,0,Feb,0,0,06APR2020
+VALUE,Finland,Stainless Products,United States (For Domestic Consumption),IMP,86956741,46417179,14792342,11031985,20254585,25850505,10703988,Feb,789736,1221124,06APR2020
+VALUE,France,All Steel Mill Products,United States (For Domestic Consumption),IMP,535824085,684552811,659338237,443848586,450416989,450108651,289857241,Feb,44061930,26790727,06APR2020
+VALUE,France,Flat Products,United States (For Domestic Consumption),IMP,204923350,301091874,294055472,160090971,102971952,103088023,78023503,Feb,12025583,4021202,06APR2020
+VALUE,France,Long Products,United States (For Domestic Consumption),IMP,52807779,68327608,87586832,77276490,105956320,113794218,62370395,Feb,10141439,3047861,06APR2020
+VALUE,France,Pipe and Tube Products,United States (For Domestic Consumption),IMP,100068026,127301980,84630074,28548172,30800663,27442271,16086213,Feb,2306335,3846975,06APR2020
+VALUE,France,Semi-Finished Products,United States (For Domestic Consumption),IMP,4492644,5523868,7898667,4267742,1347298,739704,1109240,Feb,2376,132968,06APR2020
+VALUE,France,Stainless Products,United States (For Domestic Consumption),IMP,173532286,182307481,185167192,173665211,209340756,205044435,132267890,Feb,19586197,15741721,06APR2020
+VALUE,United Kingdom,All Steel Mill Products,United States (For Domestic Consumption),IMP,668185076,1159353548,761727835,414359908,464245875,442770564,368218953,Feb,56755121,32872186,06APR2020
+VALUE,United Kingdom,Flat Products,United States (For Domestic Consumption),IMP,136602708,332688617,298008147,150842784,117176601,139642672,105382467,Feb,16485346,8111568,06APR2020
+VALUE,United Kingdom,Long Products,United States (For Domestic Consumption),IMP,215107985,270456460,210388140,104836824,133814965,84002162,65457780,Feb,11267276,4710068,06APR2020
+VALUE,United Kingdom,Pipe and Tube Products,United States (For Domestic Consumption),IMP,118593719,37207831,45254134,25183202,65129422,68794908,68819017,Feb,9659926,5715753,06APR2020
+VALUE,United Kingdom,Semi-Finished Products,United States (For Domestic Consumption),IMP,3059293,309233396,40155377,12222386,10714276,15547672,9530121,Feb,1020443,455258,06APR2020
+VALUE,United Kingdom,Stainless Products,United States (For Domestic Consumption),IMP,194821371,209767244,167922037,121274712,137410611,134783150,119029568,Feb,18322130,13879539,06APR2020
+VALUE,Greece,All Steel Mill Products,United States (For Domestic Consumption),IMP,56241546,44333299,220618279,89280062,43825588,240739805,105446233,Feb,41038097,189724,06APR2020
+VALUE,Greece,Flat Products,United States (For Domestic Consumption),IMP,0,38250,9131,0,0,0,0,Feb,0,0,06APR2020
+VALUE,Greece,Long Products,United States (For Domestic Consumption),IMP,519558,1631620,1558957,2423106,4093948,26708079,15027800,Feb,12026022,189724,06APR2020
+VALUE,Greece,Pipe and Tube Products,United States (For Domestic Consumption),IMP,55721988,42663429,218968289,86856956,39724194,214031726,90418433,Feb,29012075,0,06APR2020
+VALUE,Greece,Stainless Products,United States (For Domestic Consumption),IMP,0,0,81902,0,7446,0,0,Feb,0,0,06APR2020
+VALUE,Guatemala,All Steel Mill Products,United States (For Domestic Consumption),IMP,7716005,3678891,3795852,11714852,27210696,30970306,13770212,Feb,1737741,1665800,06APR2020
+VALUE,Guatemala,Flat Products,United States (For Domestic Consumption),IMP,27738,118537,96467,6120856,20412078,12406103,161318,Feb,3961,17944,06APR2020
+VALUE,Guatemala,Long Products,United States (For Domestic Consumption),IMP,38928,225225,59039,298781,261749,2954680,42537,Feb,15492,11597,06APR2020
+VALUE,Guatemala,Pipe and Tube Products,United States (For Domestic Consumption),IMP,7649339,3335129,3640346,5295215,6536869,15609523,13566357,Feb,1718288,1636259,06APR2020
+VALUE,Indonesia,All Steel Mill Products,United States (For Domestic Consumption),IMP,21471205,23746763,16348335,25565562,79701055,124747164,109633364,Feb,18275503,2935548,06APR2020
+VALUE,Indonesia,Flat Products,United States (For Domestic Consumption),IMP,296237,0,43525,3131851,6861009,5092816,7539768,Feb,1617756,1198765,06APR2020
+VALUE,Indonesia,Long Products,United States (For Domestic Consumption),IMP,125195,78072,192836,368077,603538,1102864,102046,Feb,0,0,06APR2020
+VALUE,Indonesia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,12942987,10845954,5912256,5248045,6005850,9698446,10902903,Feb,3169948,695740,06APR2020
+VALUE,Indonesia,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,16430,0,0,3585,0,0,Feb,0,0,06APR2020
+VALUE,Indonesia,Stainless Products,United States (For Domestic Consumption),IMP,8106786,12806307,10199718,16817589,66227073,108853038,91088647,Feb,13487799,1041043,06APR2020
+VALUE,India,All Steel Mill Products,United States (For Domestic Consumption),IMP,831896941,1080414312,858621808,367375329,760588777,404259298,277990725,Feb,57895753,30634395,06APR2020
+VALUE,India,Flat Products,United States (For Domestic Consumption),IMP,267152069,487274153,337608614,77213281,82268737,9927594,8041289,Feb,1237825,875821,06APR2020
+VALUE,India,Long Products,United States (For Domestic Consumption),IMP,10989126,14438104,18695873,10478444,25100650,17812802,15064362,Feb,1731444,2125249,06APR2020
+VALUE,India,Pipe and Tube Products,United States (For Domestic Consumption),IMP,361292779,237698841,208571418,91290030,403568147,111910179,86403190,Feb,18721170,7897726,06APR2020
+VALUE,India,Semi-Finished Products,United States (For Domestic Consumption),IMP,2100775,60821303,19777673,16404514,36700471,66415881,18790710,Feb,5421775,1332399,06APR2020
+VALUE,India,Stainless Products,United States (For Domestic Consumption),IMP,190362192,280181911,273968230,171989060,212950772,198192842,149691174,Feb,30783539,18403200,06APR2020
+VALUE,Italy,All Steel Mill Products,United States (For Domestic Consumption),IMP,954236617,1088308752,898370123,561330461,729226905,847683537,696107377,Feb,154450795,55363703,06APR2020
+VALUE,Italy,Flat Products,United States (For Domestic Consumption),IMP,100008748,230745422,162332214,91259407,64399390,33819641,10093240,Feb,1313467,1652966,06APR2020
+VALUE,Italy,Long Products,United States (For Domestic Consumption),IMP,113692425,104505681,91282409,73152248,106145472,216139418,154801309,Feb,54058378,6345410,06APR2020
+VALUE,Italy,Pipe and Tube Products,United States (For Domestic Consumption),IMP,303453457,346939650,279242755,105752614,169890823,207065575,176908290,Feb,38438196,14016466,06APR2020
+VALUE,Italy,Semi-Finished Products,United States (For Domestic Consumption),IMP,12890859,23266714,21324433,11276856,24301637,43134370,73250717,Feb,18039808,155966,06APR2020
+VALUE,Italy,Stainless Products,United States (For Domestic Consumption),IMP,424191128,382851285,344188312,279889336,364489583,347524533,281053821,Feb,42600946,33192895,06APR2020
+VALUE,Japan,All Steel Mill Products,United States (For Domestic Consumption),IMP,2479613927,2598253217,2374529075,1639291754,1657694115,1626217523,1505656754,Feb,248514830,194303694,06APR2020
+VALUE,Japan,Flat Products,United States (For Domestic Consumption),IMP,641759646,683859756,616086060,393615693,467039271,439871670,367298402,Feb,69326997,52534182,06APR2020
+VALUE,Japan,Long Products,United States (For Domestic Consumption),IMP,686516679,798668195,808545139,732040308,588419276,551771692,526985636,Feb,84486791,60977116,06APR2020
+VALUE,Japan,Pipe and Tube Products,United States (For Domestic Consumption),IMP,595386280,511714262,499615755,239934140,239648102,294897594,296560015,Feb,62680915,28299416,06APR2020
+VALUE,Japan,Semi-Finished Products,United States (For Domestic Consumption),IMP,276616848,289034470,149006036,100061655,163914244,69609894,12003061,Feb,1290746,1392253,06APR2020
+VALUE,Japan,Stainless Products,United States (For Domestic Consumption),IMP,279334474,314976534,301276085,173639958,198673222,270066673,302809640,Feb,30729381,51100727,06APR2020
+VALUE,Korea,All Steel Mill Products,United States (For Domestic Consumption),IMP,3055941837,4303073136,3448234322,2332176665,2797567045,2359175980,2263481452,Feb,519383210,270754116,06APR2020
+VALUE,Korea,Flat Products,United States (For Domestic Consumption),IMP,996025738,1562019103,1664286180,1292142484,861090060,1106836881,1035103682,Feb,211560852,162102621,06APR2020
+VALUE,Korea,Long Products,United States (For Domestic Consumption),IMP,238702134,367273677,352391325,252330902,228452666,202022867,226176337,Feb,47973848,36065257,06APR2020
+VALUE,Korea,Pipe and Tube Products,United States (For Domestic Consumption),IMP,1632026614,2180806025,1256881590,609464274,1504971815,907144073,858354933,Feb,221774015,43984746,06APR2020
+VALUE,Korea,Semi-Finished Products,United States (For Domestic Consumption),IMP,40539481,12937794,101776,52109,3441229,60178,159979,Feb,154600,0,06APR2020
+VALUE,Korea,Stainless Products,United States (For Domestic Consumption),IMP,148647870,180036537,174573451,178186896,199611275,143111981,143686521,Feb,37919895,28601492,06APR2020
+VALUE,Luxembourg,All Steel Mill Products,United States (For Domestic Consumption),IMP,197089827,265657881,156622182,118867537,156197461,122142287,131364214,Feb,28744531,11240806,06APR2020
+VALUE,Luxembourg,Flat Products,United States (For Domestic Consumption),IMP,10946518,41395527,13559730,10170880,16628900,23764065,2684036,Feb,789957,259693,06APR2020
+VALUE,Luxembourg,Long Products,United States (For Domestic Consumption),IMP,186143309,224262354,143059777,108656861,139522796,98301789,128671566,Feb,27954574,10976170,06APR2020
+VALUE,Luxembourg,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,2675,39796,45765,0,0,Feb,0,4943,06APR2020
+VALUE,Luxembourg,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,76433,8612,Feb,0,0,06APR2020
+VALUE,Morocco,All Steel Mill Products,United States (For Domestic Consumption),IMP,0,0,2336,0,15043926,19117032,11246690,Feb,0,0,06APR2020
+VALUE,Morocco,Flat Products,United States (For Domestic Consumption),IMP,0,0,0,0,5164234,3281387,26539,Feb,0,0,06APR2020
+VALUE,Morocco,Long Products,United States (For Domestic Consumption),IMP,0,0,0,0,9879692,15835645,11220151,Feb,0,0,06APR2020
+VALUE,Morocco,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,2336,0,0,0,0,Feb,0,0,06APR2020
+VALUE,Mexico,All Steel Mill Products,United States (For Domestic Consumption),IMP,2500011723,3156727312,2130450014,1963408315,2506659405,3047548259,2662607355,Feb,441989784,466901118,06APR2020
+VALUE,Mexico,Flat Products,United States (For Domestic Consumption),IMP,591076959,679133834,461549217,548202303,623710238,734291538,541027106,Feb,119108125,91895691,06APR2020
+VALUE,Mexico,Long Products,United States (For Domestic Consumption),IMP,522690859,461845259,326106195,290237119,319577333,322843641,337259133,Feb,37739571,82910282,06APR2020
+VALUE,Mexico,Pipe and Tube Products,United States (For Domestic Consumption),IMP,793975167,1168543795,834818668,704732596,1034921818,1147452516,876840668,Feb,156103220,169765965,06APR2020
+VALUE,Mexico,Semi-Finished Products,United States (For Domestic Consumption),IMP,394772981,641957753,350085731,260529539,375566713,676249337,798053114,Feb,108164968,108525118,06APR2020
+VALUE,Mexico,Stainless Products,United States (For Domestic Consumption),IMP,197495757,205246671,157890203,159706758,152883303,166711227,109427334,Feb,20873900,13804062,06APR2020
+VALUE,Malaysia,All Steel Mill Products,United States (For Domestic Consumption),IMP,35028092,13007131,26564513,31954822,91091946,56147432,76898193,Feb,6569615,2552495,06APR2020
+VALUE,Malaysia,Flat Products,United States (For Domestic Consumption),IMP,0,639889,1912035,10582301,63365757,33752874,21433297,Feb,3121578,125728,06APR2020
+VALUE,Malaysia,Long Products,United States (For Domestic Consumption),IMP,1101256,613425,12574703,1066212,7321239,1726026,26642165,Feb,403215,442447,06APR2020
+VALUE,Malaysia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,7068583,8226033,7285507,7357067,5816705,11992050,21862722,Feb,1329860,251046,06APR2020
+VALUE,Malaysia,Semi-Finished Products,United States (For Domestic Consumption),IMP,8754,0,0,270194,0,13646,24220,Feb,0,5100,06APR2020
+VALUE,Malaysia,Stainless Products,United States (For Domestic Consumption),IMP,26849499,3527784,4792268,12679048,14588245,8662836,6935789,Feb,1714962,1728174,06APR2020
+VALUE,Netherlands,All Steel Mill Products,United States (For Domestic Consumption),IMP,527943616,712014492,553837011,500492368,512402477,500058310,423762737,Feb,52324530,28374358,06APR2020
+VALUE,Netherlands,Flat Products,United States (For Domestic Consumption),IMP,511062304,689938566,538127953,482736205,478213072,482057610,404533884,Feb,50454772,26455784,06APR2020
+VALUE,Netherlands,Long Products,United States (For Domestic Consumption),IMP,4726272,6710140,5384335,4992019,3605344,3696360,2605088,Feb,433530,248977,06APR2020
+VALUE,Netherlands,Pipe and Tube Products,United States (For Domestic Consumption),IMP,10087241,10402907,8819051,8630631,8843224,5745014,10469098,Feb,187898,1309066,06APR2020
+VALUE,Netherlands,Semi-Finished Products,United States (For Domestic Consumption),IMP,559706,566355,33352,2273722,17049392,168214,118162,Feb,16754,0,06APR2020
+VALUE,Netherlands,Stainless Products,United States (For Domestic Consumption),IMP,1508093,4396524,1472320,1859791,4691445,8391112,6036505,Feb,1231576,360531,06APR2020
+VALUE,New Zealand,All Steel Mill Products,United States (For Domestic Consumption),IMP,77363474,67556941,60725359,17598520,29494981,44295232,4605351,Feb,6172,1719632,06APR2020
+VALUE,New Zealand,Flat Products,United States (For Domestic Consumption),IMP,77329458,67527992,60670840,17361939,28875455,44262018,4578180,Feb,0,1714225,06APR2020
+VALUE,New Zealand,Long Products,United States (For Domestic Consumption),IMP,7571,17938,14601,19189,10340,0,0,Feb,0,0,06APR2020
+VALUE,New Zealand,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,3616,11570,203104,14200,20371,Feb,2072,2813,06APR2020
+VALUE,New Zealand,Stainless Products,United States (For Domestic Consumption),IMP,26445,11011,36302,205822,406082,19014,6800,Feb,4100,2594,06APR2020
+VALUE,Oman,All Steel Mill Products,United States (For Domestic Consumption),IMP,37404869,53613564,32946715,13980065,29884873,36419593,54081436,Feb,8899888,6122343,06APR2020
+VALUE,Oman,Long Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,0,17049782,Feb,0,0,06APR2020
+VALUE,Oman,Pipe and Tube Products,United States (For Domestic Consumption),IMP,37404869,53613564,32946715,13957865,29784015,36419593,37031654,Feb,8899888,6122343,06APR2020
+VALUE,Oman,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,22200,100858,0,0,Feb,0,0,06APR2020
+VALUE,Other Countries,All Steel Mill Products,United States (For Domestic Consumption),IMP,128162404,179912660,154424357,127003130,245451752,181969041,181752433,Feb,28126005,11855621,06APR2020
+VALUE,Other Countries,Flat Products,United States (For Domestic Consumption),IMP,17253169,44934088,31432084,33993670,79125166,50784622,39821120,Feb,4029145,3197648,06APR2020
+VALUE,Other Countries,Long Products,United States (For Domestic Consumption),IMP,12574743,10409681,10888736,12790322,16213549,19280557,50988845,Feb,6289161,602348,06APR2020
+VALUE,Other Countries,Pipe and Tube Products,United States (For Domestic Consumption),IMP,50285679,57749199,63481456,38282817,92786268,78419951,65335770,Feb,14876161,4069618,06APR2020
+VALUE,Other Countries,Semi-Finished Products,United States (For Domestic Consumption),IMP,20686,176485,721004,1299184,646549,837387,545848,Feb,42798,18622,06APR2020
+VALUE,Other Countries,Stainless Products,United States (For Domestic Consumption),IMP,48028127,66643207,47901077,40637137,56680220,32646524,25060850,Feb,2888740,3967385,06APR2020
+VALUE,Peru,All Steel Mill Products,United States (For Domestic Consumption),IMP,7014501,30775094,9010969,10144393,23081227,19860167,179624,Feb,0,2325,06APR2020
+VALUE,Peru,Flat Products,United States (For Domestic Consumption),IMP,0,3866693,0,0,0,0,0,Feb,0,0,06APR2020
+VALUE,Peru,Long Products,United States (For Domestic Consumption),IMP,7014501,26776041,9010969,10144393,23072777,19860167,179624,Feb,0,2325,06APR2020
+VALUE,Peru,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,132360,0,0,6000,0,0,Feb,0,0,06APR2020
+VALUE,Peru,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,0,2450,0,0,Feb,0,0,06APR2020
+VALUE,Philippines,All Steel Mill Products,United States (For Domestic Consumption),IMP,79447130,73451844,47610239,12246711,46657944,49853984,36648917,Feb,16638887,6757,06APR2020
+VALUE,Philippines,Flat Products,United States (For Domestic Consumption),IMP,0,0,0,107975,1282362,19996,0,Feb,0,0,06APR2020
+VALUE,Philippines,Long Products,United States (For Domestic Consumption),IMP,0,0,0,3420,119268,0,0,Feb,0,0,06APR2020
+VALUE,Philippines,Pipe and Tube Products,United States (For Domestic Consumption),IMP,79425593,72373620,43954987,9002182,41712235,48776270,36630781,Feb,16632581,0,06APR2020
+VALUE,Philippines,Stainless Products,United States (For Domestic Consumption),IMP,21537,1078224,3655252,3133134,3544079,1057718,18136,Feb,6306,6757,06APR2020
+VALUE,Portugal,All Steel Mill Products,United States (For Domestic Consumption),IMP,19633414,25591000,24675370,41257723,105757117,69930305,35102541,Feb,5434835,3756180,06APR2020
+VALUE,Portugal,Flat Products,United States (For Domestic Consumption),IMP,0,10598,126275,2970198,3055970,2084678,1784217,Feb,82807,310357,06APR2020
+VALUE,Portugal,Long Products,United States (For Domestic Consumption),IMP,4059248,7382803,1557048,6421223,54158790,24921853,150841,Feb,4045,6238,06APR2020
+VALUE,Portugal,Pipe and Tube Products,United States (For Domestic Consumption),IMP,258520,0,0,11536769,15591163,3912415,1634208,Feb,218704,40056,06APR2020
+VALUE,Portugal,Stainless Products,United States (For Domestic Consumption),IMP,15315646,18197599,22992047,20329533,32951194,39011359,31533275,Feb,5129279,3399529,06APR2020
+VALUE,Romania,All Steel Mill Products,United States (For Domestic Consumption),IMP,166468307,205528038,156996242,66999903,110450367,233414444,165156778,Feb,47748635,48760685,06APR2020
+VALUE,Romania,Flat Products,United States (For Domestic Consumption),IMP,0,2513,36631,0,232911,1925194,2544585,Feb,577614,1008828,06APR2020
+VALUE,Romania,Long Products,United States (For Domestic Consumption),IMP,436207,778546,2123998,1640134,7823230,1951527,1366762,Feb,369412,336415,06APR2020
+VALUE,Romania,Pipe and Tube Products,United States (For Domestic Consumption),IMP,159404566,193778083,146417617,57952885,87297657,115040070,65202238,Feb,16127336,7684347,06APR2020
+VALUE,Romania,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,0,5070,820838,103636014,90732201,Feb,29911534,38877826,06APR2020
+VALUE,Romania,Stainless Products,United States (For Domestic Consumption),IMP,6627534,10968896,8417996,7401814,14275731,10861639,5310992,Feb,762739,853269,06APR2020
+VALUE,Serbia,All Steel Mill Products,United States (For Domestic Consumption),IMP,0,0,246434,3921895,20016919,37304871,9474162,Feb,3331034,120470,06APR2020
+VALUE,Serbia,Flat Products,United States (For Domestic Consumption),IMP,0,0,246434,3921895,20014034,37298777,9468336,Feb,3331034,120470,06APR2020
+VALUE,Serbia,Long Products,United States (For Domestic Consumption),IMP,0,0,0,0,2885,3470,0,Feb,0,0,06APR2020
+VALUE,Serbia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,0,5826,Feb,0,0,06APR2020
+VALUE,Serbia,Stainless Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,2624,0,Feb,0,0,06APR2020
+VALUE,Russia,All Steel Mill Products,United States (For Domestic Consumption),IMP,937214891,2424048798,880589512,688637270,1414234777,1389586263,581734575,Feb,138862710,78004541,06APR2020
+VALUE,Russia,Flat Products,United States (For Domestic Consumption),IMP,22318644,589055311,77877628,29201537,314276401,118917490,15184776,Feb,399589,622529,06APR2020
+VALUE,Russia,Long Products,United States (For Domestic Consumption),IMP,20674044,67410516,24406089,62331356,31152861,14751996,8431186,Feb,248566,18839,06APR2020
+VALUE,Russia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,178653884,253346323,169830819,56633159,161986010,263097638,218461932,Feb,63505334,16981921,06APR2020
+VALUE,Russia,Semi-Finished Products,United States (For Domestic Consumption),IMP,713461462,1514236648,608464145,540346877,906226915,990558441,337909169,Feb,72961709,60381252,06APR2020
+VALUE,Russia,Stainless Products,United States (For Domestic Consumption),IMP,2106857,0,10831,124341,592590,2260698,1747512,Feb,1747512,0,06APR2020
+VALUE,Saudi Arabia,All Steel Mill Products,United States (For Domestic Consumption),IMP,107721129,87259938,107819279,11257696,77817411,91066750,101804280,Feb,34362074,4276847,06APR2020
+VALUE,Saudi Arabia,Flat Products,United States (For Domestic Consumption),IMP,0,15606448,38875204,0,2124876,4004392,4527509,Feb,400738,1403483,06APR2020
+VALUE,Saudi Arabia,Long Products,United States (For Domestic Consumption),IMP,0,0,0,0,0,0,21949,Feb,0,0,06APR2020
+VALUE,Saudi Arabia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,104674780,69682064,67087517,9878878,73826415,84798587,94077190,Feb,33562184,2557642,06APR2020
+VALUE,Saudi Arabia,Stainless Products,United States (For Domestic Consumption),IMP,3046349,1971426,1856558,1378818,1866120,2263771,3177632,Feb,399152,315722,06APR2020
+VALUE,Sweden,All Steel Mill Products,United States (For Domestic Consumption),IMP,537543303,638131638,482642407,431663414,492853384,522174213,384039923,Feb,64152545,49195127,06APR2020
+VALUE,Sweden,Flat Products,United States (For Domestic Consumption),IMP,188296028,219427829,201044960,213424800,198063773,178005569,145595679,Feb,21204250,10825268,06APR2020
+VALUE,Sweden,Long Products,United States (For Domestic Consumption),IMP,55675946,75466045,70027891,56876899,68625617,89367797,46948461,Feb,9469883,3304178,06APR2020
+VALUE,Sweden,Pipe and Tube Products,United States (For Domestic Consumption),IMP,19787378,18728184,13306861,9977124,11873619,12661176,4046641,Feb,861681,565075,06APR2020
+VALUE,Sweden,Semi-Finished Products,United States (For Domestic Consumption),IMP,460542,995356,492304,376660,2795213,1211616,258277,Feb,84934,59032,06APR2020
+VALUE,Sweden,Stainless Products,United States (For Domestic Consumption),IMP,273323409,323514224,197770391,151007931,211495162,240928055,187190865,Feb,32531797,34441574,06APR2020
+VALUE,Slovenia,All Steel Mill Products,United States (For Domestic Consumption),IMP,48997899,61556848,60925686,51905608,70175952,70592621,68742056,Feb,11837511,11941180,06APR2020
+VALUE,Slovenia,Flat Products,United States (For Domestic Consumption),IMP,3694631,5314448,6890964,5858323,12537330,15236850,10658426,Feb,1120705,829417,06APR2020
+VALUE,Slovenia,Long Products,United States (For Domestic Consumption),IMP,20874752,25352236,25197329,20517177,22862403,23289219,26676999,Feb,5197377,3870292,06APR2020
+VALUE,Slovenia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,0,20556,10097,87843,112868,304698,Feb,21469,64988,06APR2020
+VALUE,Slovenia,Semi-Finished Products,United States (For Domestic Consumption),IMP,1274361,1137241,683671,432709,284324,112254,46575,Feb,0,43709,06APR2020
+VALUE,Slovenia,Stainless Products,United States (For Domestic Consumption),IMP,23154155,29752923,28133166,25087302,34404052,31841430,31055358,Feb,5497960,7132774,06APR2020
+VALUE,Slovakia,All Steel Mill Products,United States (For Domestic Consumption),IMP,13920519,54780213,9453352,8859354,37833416,31528904,17979683,Feb,3040402,2293072,06APR2020
+VALUE,Slovakia,Flat Products,United States (For Domestic Consumption),IMP,11234,27624,162154,1470485,2278595,2238832,1638429,Feb,72384,84232,06APR2020
+VALUE,Slovakia,Long Products,United States (For Domestic Consumption),IMP,451767,1204437,2084483,2800107,4831139,4340313,5343327,Feb,966908,947038,06APR2020
+VALUE,Slovakia,Pipe and Tube Products,United States (For Domestic Consumption),IMP,13362424,11728410,7031113,4396515,8782821,11030527,10935835,Feb,1976630,1261802,06APR2020
+VALUE,Slovakia,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,41712633,0,0,21722905,13919232,48960,Feb,24480,0,06APR2020
+VALUE,Slovakia,Stainless Products,United States (For Domestic Consumption),IMP,95094,107109,175602,192247,217956,0,13132,Feb,0,0,06APR2020
+VALUE,Thailand,All Steel Mill Products,United States (For Domestic Consumption),IMP,123313829,95821188,106014316,93590463,355026539,292578565,250950476,Feb,59518382,21642416,06APR2020
+VALUE,Thailand,Flat Products,United States (For Domestic Consumption),IMP,1839445,117397,10421,36272955,143807990,96415672,52706295,Feb,10891597,2028858,06APR2020
+VALUE,Thailand,Long Products,United States (For Domestic Consumption),IMP,4654578,5648691,4787345,1023106,1023493,6099368,7307239,Feb,1837981,577514,06APR2020
+VALUE,Thailand,Pipe and Tube Products,United States (For Domestic Consumption),IMP,83679234,75583367,90819254,42832019,154954230,179472182,173088206,Feb,43591514,16128446,06APR2020
+VALUE,Thailand,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,1061469,0,70830,57950,35580,0,Feb,0,0,06APR2020
+VALUE,Thailand,Stainless Products,United States (For Domestic Consumption),IMP,33140572,13410264,10397296,13391553,55182876,10555763,17848736,Feb,3197290,2907598,06APR2020
+VALUE,Turkey,All Steel Mill Products,United States (For Domestic Consumption),IMP,754895988,1436179530,1475533998,1078496980,1194327987,773854805,212416772,Feb,81581672,50862556,06APR2020
+VALUE,Turkey,Flat Products,United States (For Domestic Consumption),IMP,36475314,292914553,232512240,249215179,503741279,304248499,28866524,Feb,8935802,860465,06APR2020
+VALUE,Turkey,Long Products,United States (For Domestic Consumption),IMP,446925805,722524930,856922069,585895050,485113215,235055742,70413584,Feb,13862658,42669673,06APR2020
+VALUE,Turkey,Pipe and Tube Products,United States (For Domestic Consumption),IMP,269443968,342101849,349861906,195527656,183108254,228304352,108004151,Feb,57247916,7279917,06APR2020
+VALUE,Turkey,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,0,0,76779,0,9052,Feb,0,0,06APR2020
+VALUE,Turkey,Stainless Products,United States (For Domestic Consumption),IMP,2050901,78638198,36237783,47859095,22288460,6246212,5123461,Feb,1535296,52501,06APR2020
+VALUE,Taiwan,All Steel Mill Products,United States (For Domestic Consumption),IMP,983610073,1390718507,1255804223,950241921,1263557687,1172311749,885077283,Feb,178588656,94008969,06APR2020
+VALUE,Taiwan,Flat Products,United States (For Domestic Consumption),IMP,429713804,688498332,656581463,463458449,624246448,418769990,270190375,Feb,46054411,40111570,06APR2020
+VALUE,Taiwan,Long Products,United States (For Domestic Consumption),IMP,52808295,85575052,100895754,113354996,70066366,92320964,56503884,Feb,11996040,4317796,06APR2020
+VALUE,Taiwan,Pipe and Tube Products,United States (For Domestic Consumption),IMP,127505113,162185019,144342361,82375380,200229755,287051537,274084730,Feb,68952637,8738869,06APR2020
+VALUE,Taiwan,Semi-Finished Products,United States (For Domestic Consumption),IMP,159224,135463,347694,351127,199174,213515,22764,Feb,0,9340,06APR2020
+VALUE,Taiwan,Stainless Products,United States (For Domestic Consumption),IMP,373423637,454324641,353636951,290701969,368815944,373955743,284275530,Feb,51585568,40831394,06APR2020
+VALUE,Ukraine,All Steel Mill Products,United States (For Domestic Consumption),IMP,172990087,156480024,146670511,100378080,171209152,192286464,223193227,Feb,43784706,9932985,06APR2020
+VALUE,Ukraine,Flat Products,United States (For Domestic Consumption),IMP,44313,5000782,8885823,5745701,36669383,32984502,31582464,Feb,13858931,0,06APR2020
+VALUE,Ukraine,Long Products,United States (For Domestic Consumption),IMP,15847773,29762257,52234964,65424983,56872514,20154251,8200018,Feb,3374027,350589,06APR2020
+VALUE,Ukraine,Pipe and Tube Products,United States (For Domestic Consumption),IMP,135232500,95065851,57869316,19527371,58692647,117147207,149912031,Feb,22100486,3727379,06APR2020
+VALUE,Ukraine,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,4317668,0,0,0,241460,Feb,0,0,06APR2020
+VALUE,Ukraine,Stainless Products,United States (For Domestic Consumption),IMP,21865501,26651134,23362740,9680025,18974608,22000504,33257254,Feb,4451262,5855017,06APR2020
+VALUE,Venezuela,All Steel Mill Products,United States (For Domestic Consumption),IMP,19821,13571,11764459,4225067,1501671,12156574,3684842,Feb,3684842,0,06APR2020
+VALUE,Venezuela,Flat Products,United States (For Domestic Consumption),IMP,0,0,11764459,4225067,0,16036,0,Feb,0,0,06APR2020
+VALUE,Venezuela,Long Products,United States (For Domestic Consumption),IMP,19821,4460,0,0,1501671,12140538,3684842,Feb,3684842,0,06APR2020
+VALUE,Venezuela,Pipe and Tube Products,United States (For Domestic Consumption),IMP,0,9111,0,0,0,0,0,Feb,0,0,06APR2020
+VALUE,Vietnam,All Steel Mill Products,United States (For Domestic Consumption),IMP,235040243,138468283,175694692,496246085,520358161,844372324,492302405,Feb,111697337,41440424,06APR2020
+VALUE,Vietnam,Flat Products,United States (For Domestic Consumption),IMP,478438,2853293,44849717,378126564,304578609,620297212,273284089,Feb,77338330,16430946,06APR2020
+VALUE,Vietnam,Long Products,United States (For Domestic Consumption),IMP,11109081,17034238,18993733,23572225,55845697,46567200,39695805,Feb,13029311,3914795,06APR2020
+VALUE,Vietnam,Pipe and Tube Products,United States (For Domestic Consumption),IMP,198232789,88346987,82519429,46824450,87853963,117211896,117187194,Feb,9360899,12980476,06APR2020
+VALUE,Vietnam,Semi-Finished Products,United States (For Domestic Consumption),IMP,0,0,49791,0,0,0,0,Feb,0,0,06APR2020
+VALUE,Vietnam,Stainless Products,United States (For Domestic Consumption),IMP,25219935,30233765,29282022,47722846,72079892,60296016,62135317,Feb,11968797,8114207,06APR2020
+VALUE,World,All Steel Mill Products,United States (For Domestic Consumption),IMP,28944035823,37949708769,30369956866,22322068657,29336302454,29415249455,23673005418,Feb,4901056342,3468116530,06APR2020
+VALUE,World,Flat Products,United States (For Domestic Consumption),IMP,7955359289,12324236721,10479171788,8460861335,9835140480,9933881878,7633400846,Feb,1437981018,1136835420,06APR2020
+VALUE,World,Long Products,United States (For Domestic Consumption),IMP,5172544814,6240478617,5642143417,4556872339,4883189934,4484242559,3755318448,Feb,726839714,524174220,06APR2020
+VALUE,World,Pipe and Tube Products,United States (For Domestic Consumption),IMP,8746368370,9802008914,7556476103,4001705544,7427686995,7412076228,6142083846,Feb,1433938305,650068850,06APR2020
+VALUE,World,Semi-Finished Products,United States (For Domestic Consumption),IMP,3403750530,5217089651,2838607354,2229787319,3425192972,4143644484,3316431345,Feb,837510728,698233615,06APR2020
+VALUE,World,Stainless Products,United States (For Domestic Consumption),IMP,3666012820,4365894866,3853558204,3072842120,3765092073,3441404306,2825770933,Feb,464786577,458804425,06APR2020
+VALUE,South Africa,All Steel Mill Products,United States (For Domestic Consumption),IMP,93270164,168934353,140449254,153281814,278664694,186935079,185881152,Feb,66037960,18051885,06APR2020
+VALUE,South Africa,Flat Products,United States (For Domestic Consumption),IMP,9899407,41346785,47125342,91081328,163019374,94941674,85252753,Feb,35933216,8703686,06APR2020
+VALUE,South Africa,Long Products,United States (For Domestic Consumption),IMP,1723578,1104465,19920223,9039164,16034396,13056014,30581855,Feb,10679750,197713,06APR2020
+VALUE,South Africa,Pipe and Tube Products,United States (For Domestic Consumption),IMP,29237543,58489685,30099805,15129396,58893128,56180636,47519513,Feb,14261084,3546788,06APR2020
+VALUE,South Africa,Stainless Products,United States (For Domestic Consumption),IMP,52409636,67993418,43303884,38031926,40717796,22756755,22527031,Feb,5163910,5603698,06APR2020
