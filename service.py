@@ -1,67 +1,83 @@
 # -*- coding: utf-8 -*-
-import boto3, csv, uuid, json
+import csv
+import json
+import uuid
 from collections import OrderedDict
 
-s3 = boto3.resource('s3')
-url_payload = { "freshen_url": "https://api.trade.gov/v1/steel_data_staging/freshen?api_key="}
-lambda_client = boto3.client('lambda')
+import boto3
+
+URL_PAYLOAD = {
+    "freshen_url": "https://api.trade.gov/v1/steel_data_staging/freshen?api_key="
+}
+
 
 def handler(event, context):
-    bucket_name = event['Records'][0]['s3']['bucket']['name']
+    s3 = boto3.resource("s3")
+    bucket_name = event["Records"][0]["s3"]["bucket"]["name"]
     bucket = s3.Bucket(bucket_name)
 
     data = []
-    headers = []
     global_headers = []
+    outcome = True
     for obj in bucket.objects.all():
-      path = obj.key
-      download_path = '/tmp/{}{}'.format(uuid.uuid4(), path)
-      print(download_path)
-      bucket.download_file(path, download_path)
-      with open(download_path) as csvfile:
-        reader = csv.reader(csvfile)
-        header = [x.lower() for x in next(reader, None)]
-        global_headers = list(set(global_headers + header))
-        for row in reader:
-          data.append(dict(zip(header, map(get_value, row))))
+        path = obj.key
+        download_path = "/tmp/{}{}".format(uuid.uuid4(), path)
+        print(download_path)
+        bucket.download_file(path, download_path)
+        with open(download_path) as csvfile:
+            reader = csv.reader(csvfile)
+            header = [x.lower() for x in next(reader, None)]
+            global_headers = list(set(global_headers + header))
+            for row in reader:
+                data.append(dict(zip(header, map(get_value, row))))
 
     empty_entry = build_empty_entry(global_headers)
-    data = map(lambda x: OrderedDict(empty_entry, **x), data)  # Expand entries to include all headers
+    # Expand entries to include all headers
+    data = map(lambda x: OrderedDict(empty_entry, **x), data)
     csv_string = build_csv_string(data)
-    upload_csv_file(csv_string)
+    if upload_csv_file(s3, csv_string):
+        lambda_client = boto3.client("lambda", region_name="us-east-1")
+        lambda_client.invoke(
+            FunctionName="endpoint_freshen",
+            InvocationType="Event",
+            Payload=json.dumps(URL_PAYLOAD),
+        )
+        print("Freshening data...")
+    else:
+        print("Error writing file to S3 bucket")
+        outcome = False
+    return outcome
+
 
 def get_value(entry):
     if "," in entry:
         entry = '"' + entry + '"'
     return entry
 
-def upload_csv_file(csv_string):
-  try:
-    response = s3.Object('steel-data-csv', 'entries-staging.csv').put(Body=csv_string, ContentType='application/csv', ACL='public-read')
-    if response['ResponseMetadata']['HTTPStatusCode'] == 200:
-      lambda_client.invoke(FunctionName="endpoint_freshen", InvocationType='Event', Payload=json.dumps(url_payload))
-      print("Freshening data...")
-    return response
-  except Exception as e:
-    print("Error writing file to S3 bucket: ")
-    print(e)
-    raise e
+
+def upload_csv_file(s3, csv_string):
+    response = s3.Object("steel-data-csv", "entries-staging.csv").put(
+        Body=csv_string, ContentType="application/csv", ACL="public-read"
+    )
+    return response["ResponseMetadata"]["HTTPStatusCode"] == 200
+
 
 def build_empty_entry(global_headers):
-  global_headers.sort()
-  # updated_date as the last element in the header list
-  global_headers.insert(len(global_headers) - 1, global_headers.pop(5))
-  empty_entry = OrderedDict()
-  for header in global_headers:
-    empty_entry[header] = ""
-  return empty_entry
+    global_headers.sort()
+    # updated_date as the last element in the header list
+    global_headers.insert(len(global_headers) - 1, global_headers.pop(5))
+    empty_entry = OrderedDict()
+    for header in global_headers:
+        empty_entry[header] = ""
+    return empty_entry
+
 
 def build_csv_string(data):
-  first_row = next(data)
-  csv_string = ",".join(first_row.keys()) + '\n'
-  csv_string += ",".join(first_row.values()) + '\n'
+    first_row = next(data)
+    csv_string = ",".join(first_row.keys()) + "\n"
+    csv_string += ",".join(first_row.values()) + "\n"
 
-  for entry in data:
-    csv_string += ",".join(entry.values()) + '\n'
+    for entry in data:
+        csv_string += ",".join(entry.values()) + "\n"
 
-  return csv_string
+    return csv_string
