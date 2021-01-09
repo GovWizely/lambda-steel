@@ -1,2 +1,2 @@
-boto3==1.13.11
-python-lambda==11.7.1
+boto3==1.16.48
+python-lambda==11.8.0
